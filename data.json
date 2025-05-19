@@ -14184,5 +14184,19 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655279104&idx=1&sn=fc0d2ad017e5ed4cbcaa2258802dcc1f": "政府邮箱被利用XSS漏洞入侵；2024年微软披露漏洞增长11%",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247491096&idx=4&sn=bb0a679ce027e9696dc5380453a6bb65": "上讯信息技术股份有限公司运维管理系统RepeatSend命令执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247491096&idx=1&sn=b4444827d62782ba53af7e8db6a0d40c": "一次任意文件下载漏洞审计-JAVA",
-    "https://mp.weixin.qq.com/s?__biz=MzI0NjA3Mzk2NQ==&mid=2247496253&idx=1&sn=14e5b2e6452bb240a492d5caa2de3c96": "漏洞研究(9)：XXL-JOB调度中心后台任务执行SSRF漏洞 CVE-2024-24113"
+    "https://mp.weixin.qq.com/s?__biz=MzI0NjA3Mzk2NQ==&mid=2247496253&idx=1&sn=14e5b2e6452bb240a492d5caa2de3c96": "漏洞研究(9)：XXL-JOB调度中心后台任务执行SSRF漏洞 CVE-2024-24113",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900550&idx=1&sn=526bb13bc04d12e468dddee443750f21": "三星MagicINFO严重漏洞CVE-2025-4632：从路径遍历到Mirai部署的技术细节与企业应对之道",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493151&idx=3&sn=10037ca1fbd8c7838d112015fa3f790a": "漏洞预警 | Tornado日志解析器拒绝服务漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247512208&idx=1&sn=fb980855429312b7df8e91c68c4ae82a": "若依(RuoYi)框架漏洞战争手册",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795139&idx=3&sn=b778c50dbe57ec7066741e4845436a97": "英特尔新漏洞：Spectre 和 Meltdown 问题以新面貌重现",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMDM4NDM5Ng==&mid=2247492334&idx=1&sn=c5ffc39a73e459eb12fe56edc031abd0": "一个漏洞挖掘小工具 - SeeMore",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247487931&idx=1&sn=619675b41f1728c3b4c80174458886fc": "英特尔CPU再曝高危漏洞！新型内存泄漏与Spectre v2攻击卷土重来，全球数亿设备陷风险",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487486&idx=8&sn=ce5bf568df9fe4ae7bc231f3412e006e": "通过细节挖掘漏洞的艺术",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487486&idx=2&sn=5f6cc2e7c15eaedaeee640db0de55211": "任意用户登录漏洞挖掘思路",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493151&idx=2&sn=6c55c91bfdbdbe5d7acda8f94b544575": "漏洞预警 | 金和OA XXE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487486&idx=6&sn=ca5cfa1a13553a7ca1e6275272df5480": "【Web实战】一次空白页面的“妙手回春”嘎嘎出严重漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493151&idx=1&sn=c7bbbfb0fef994b47cac641836483e73": "漏洞预警 | Apache IoTDB远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247490438&idx=1&sn=68526a59f2dd824a09143399bb9644d5": "记一次某OA渗透测试有意思的文件上传漏洞挖掘经历以及分析",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNDYwNTcyNA==&mid=2247487767&idx=1&sn=c108e8c587da407711041361c00a93b4": "【代码审计】命令执行漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499696&idx=1&sn=fe88643789efacfd6935788441f31d33": "XBAP 绕过终端防护，通过 Sharp4XbapShell 实现 PowerShell 命令执行"
 }
