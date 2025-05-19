@@ -14212,5 +14212,22 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247492550&idx=1&sn=5d99ff16c3e149c4423f1197748e51f1": "Linux 内核补丁管理：漏洞防御新策略",
     "https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247492198&idx=1&sn=cad62031ef7ee2bd2f307232c09abef9": "山东大学 | MiniCAT：了解和检测小程序中的跨页面请求伪造漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487486&idx=1&sn=ba311501aea1738fee819c57be6d8fb8": "你来你也能RCE",
-    "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503412&idx=1&sn=8f8313d3cfa03a94be6998f6c304de66": "雷神众测漏洞周报2025.5.12-2025.5.18"
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503412&idx=1&sn=8f8313d3cfa03a94be6998f6c304de66": "雷神众测漏洞周报2025.5.12-2025.5.18",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&mid=2247526917&idx=2&sn=52a64842485dfa4957954d7bf7157672": "2025年4月企业必修安全漏洞清单",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMDU5MzY0NQ==&mid=2247484646&idx=1&sn=beff017a744912f0d5e8202ca0494fa8": "当漏洞成为“数字战争”的弹药，谁能改写攻防规则?",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651321137&idx=3&sn=4af04e70e04676869165146646aff900": "Pwn2Own大赛：黑客利用JavaScript零日漏洞攻破Firefox的技术细节",
+    "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512208&idx=1&sn=764625667fa8c9d62423b2d8f4ff7c13": "黑客眼中的NFC：Mifare安全漏洞大揭秘",
+    "https://mp.weixin.qq.com/s?__biz=Mzk3NTEyMzQzOA==&mid=2247485956&idx=1&sn=a9af193167f80c63701522ddd5c41e18": "Jboss反序列化漏洞(CVE-2017-12149)漏洞复现nc与javaDeserH2HC反弹shell",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMDQ4OTkyMg==&mid=2247548030&idx=1&sn=881b572138f84344fc12533b1b8678a4": "网络安全20年：从漏洞破解到AI防御的生态跃迁",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069708&idx=4&sn=21c7295802162aa16f8b54670e5a4c13": "【安全圈】glibc漏洞使数百万Linux系统面临代码执行风险",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651321137&idx=1&sn=85d1a5323f8b408b84356624a99f4290": "推荐一个专为新手打造的漏洞挖掘实战圈",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651321137&idx=4&sn=82946ed1a6eb79ec67accaf8a487ab2d": "Windows远程桌面网关UAF漏洞可导致远程代码执行",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247554862&idx=1&sn=484bd1ef145417ee1f7dfa2337003b21": "Kali实战来袭：安全漏洞一网打尽，小白秒变黑客高手",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491514&idx=1&sn=2750735b9efbf0d315335bce4609eaf3": "DocsGPT 远程命令执行漏洞 (CVE-2025-0868)",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247495987&idx=2&sn=e622c43d6da910f8fc0ddd92ba8042f8": "上周关注度较高的产品安全漏洞(20250512-20250518)",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458594242&idx=2&sn=a1d093e798d1c33be4ce0d793de7964b": "高危WordPress插件漏洞威胁超1万个网站安全",
+    "https://mp.weixin.qq.com/s?__biz=MzI0OTIwMjE2NA==&mid=2247485943&idx=1&sn=dbecf68b3773ff21ac6c9ab455ef6eb4": "爱奇艺SRC暂停漏洞测试活动公告",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247489846&idx=1&sn=df694489db4ad9de1d2a39ba6c5b3684": "Kali实战：安全漏洞一网打尽",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503417&idx=1&sn=e3066a86595352998f8e826f3a2435cf": "安全热点周报：Fortinet 修复了 FortiVoice 攻击中利用的关键零日漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247495987&idx=1&sn=796fe8469ee615c3dd62613886f006b7": "CNVD漏洞周报2025年第18期"
 }
