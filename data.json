@@ -14287,5 +14287,12 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651321374&idx=3&sn=6a3bba25915e6ce2b498ef03970fc4e8": "ChatGPT漏洞允许攻击者在共享对话中嵌入恶意SVG与图像文件",
     "https://mp.weixin.qq.com/s?__biz=MjM5NzE0NTIxMg==&mid=2651135729&idx=1&sn=d51040d6c10c0666031d7f8dcaf25fb4": "行业实践｜电力行业数字化转型，应用风险漏洞谁来防？",
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458594279&idx=2&sn=bba65c83cfc13e29b1d3bcebbe562ed2": "Pwn2Own 2025柏林赛落幕！29个零日漏洞曝光，百万奖金花落谁家？",
-    "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247489854&idx=1&sn=1e0a63504777786c01f77ea4604a9551": "Mongoose 搜索注入漏洞复现与修复"
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247489854&idx=1&sn=1e0a63504777786c01f77ea4604a9551": "Mongoose 搜索注入漏洞复现与修复",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247502414&idx=6&sn=ff90534f91198265ab19c5d635974345": "SysAid SysAid On-Prem 未授权 XML外部实体注入(XXE)漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487438&idx=1&sn=ef49a682ff862cf1972a2c7917274ba1": "Ghost Route 检测 Next JS 中间件绕过漏洞 (CVE-2025-29927) 的攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMTYyOTQ5NA==&mid=2247487145&idx=1&sn=c089110d0633e7f0798f8191da30eaef": "商用漏洞扫描器的盲区：为什么越权漏洞总被漏检？",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491589&idx=1&sn=24950336ac9f53aa1ec1584c73a58f5c": "BurpAPI越权漏洞检测工具|漏洞探测",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247502414&idx=8&sn=5608f451446d34b3c8f6f699ea83c692": "Nodejs Node.Js 异常处理不当漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247502414&idx=7&sn=72b2561ef284f3206a5cbf4f54eba279": "Google Chrome 访问控制不当漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247502414&idx=5&sn=7162f099562c67bb40635cb4eb23f583": "SysAid SysAid On-Prem 未授权 XML外部实体注入(XXE)漏洞"
 }
