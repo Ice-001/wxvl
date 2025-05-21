@@ -14314,5 +14314,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzI1NTM4ODIxMw==&mid=2247501350&idx=1&sn=ebf4178a51e69ff7028825f78d0fb3d0": "漏洞速递 | CVE-2025-0868 RCE漏洞（附EXP）",
     "https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650183840&idx=2&sn=0af114301702b4ae7a8abbb1292f6b31": "微步再获评CNNVD“高质量漏洞优秀贡献奖”、“年度优秀技术支撑单位”",
     "https://mp.weixin.qq.com/s?__biz=MzU4NjY4MDAyNQ==&mid=2247497487&idx=1&sn=e40cf31a2c927023db8183d1175e2705": "【漏洞通告】glibc静态setuid程序dlopen代码执行漏洞安全风险通告",
-    "https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247502414&idx=4&sn=a35a1079fd3a884216dc28f8d3af5297": "Fortinet FortiOS 身份验证缺陷漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247502414&idx=4&sn=a35a1079fd3a884216dc28f8d3af5297": "Fortinet FortiOS 身份验证缺陷漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463062&idx=2&sn=b4a9cf80bd7a6eebe34ae2ff379c6f1b": "信息安全漏洞周报（2025年第20期）",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTYwOTMyNA==&mid=2247485405&idx=1&sn=beb431317f63213a3b1ce3caf311a704": "当漏洞成为“数字战争”的弹药，谁能改写攻防规则？",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491536&idx=1&sn=e08651804979dee3ed4ad293816140a0": "美特CRM upload3.jsp 任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261150&idx=1&sn=9f9b5e82296ea4a4ccb98a8c4d178877": "【CVE-2025-40634】缓冲区溢出 EXP 公布",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTU2ODQ4Mw==&mid=2247487296&idx=1&sn=4a1242ec620fb15daa80efad6cf99ae6": "基于路由转发导致的权限认证绕过漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247582436&idx=1&sn=12b06818505f402adb0a43d0f8fed169": "黑客在Pwn2Own利用VMware ESXi和Microsoft SharePoint零日漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493178&idx=2&sn=5c4ca05702c3759560ca3f920b04e29b": "漏洞预警 | 力软敏捷开发框架远程代码执行漏洞"
 }
