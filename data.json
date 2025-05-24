@@ -14413,5 +14413,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxNzUxMjU5OQ==&mid=2247485423&idx=1&sn=d9bde7cd03a3dc78b49d5fea5db6ef8f": "代码审计| U8 FileManageServlet 文件读取漏洞分析",
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491626&idx=1&sn=f55c457d659713b518df8651942f1537": "渗透工具箱V8 集成Web扫描、漏洞利用、抓包、免杀等等|漏洞探测",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491565&idx=1&sn=b56914958f73bce32eb0443897986322": "杭州九麒科技 BigAnt-Admin uploadMultipleFile.html 任意文件上传漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247490390&idx=1&sn=051b605eb42fcf605c275e5dba3a8d73": "XunFeng【适用于企业内网的漏洞快速应急，巡航扫描系统】"
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247490390&idx=1&sn=051b605eb42fcf605c275e5dba3a8d73": "XunFeng【适用于企业内网的漏洞快速应急，巡航扫描系统】",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247506454&idx=1&sn=b4531761caf101bef0abf29b9897baca": "Grafana CVE-2025-4123：SSRF 和账户接管漏洞完整解读",
+    "https://mp.weixin.qq.com/s?__biz=MzIzNDU5NTI4OQ==&mid=2247489320&idx=1&sn=f7ef174c29d419e8e8eb311fe56b09b3": "黑客利用Cisco路由器漏洞建立大规模Honeypot网络，全球感染5300多台设备",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530109&idx=1&sn=75ff148b005e2bce0789e1879e64c919": "Linux内核漏洞利用CVE-2025-21756：Vsock 攻击"
 }
