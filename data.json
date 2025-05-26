@@ -14452,5 +14452,19 @@
     "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248016&idx=1&sn=06735a421a9c8937f036e7b4ca1fcd9c": "美国NIST、CISA联合提出漏洞利用概率度量标准 | 河南某公司办公系统遭篡改挂恶意标语被罚3万元",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTYyMDk1Nw==&mid=2247483863&idx=1&sn=0be008eb5656674456686070d3870748": "AI 赋能漏洞变种分析：从已知到未知，Hacktron 发现 Ivanti EPMM 新攻击向量的启示",
     "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900583&idx=1&sn=8ebdfbb9576a61b04f7c64facaa10bcb": "APT利用SaaS零日漏洞(CVE-2025-3928)攻陷Azure云！Commvault事件剖析M365数据安全与防御体系",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491658&idx=1&sn=76946720de56c1de24e078e3b915fce0": "从 SSRF 到 RCE：一次众测Fastjson<=1.2.68反序列化RCE过程|挖洞技巧"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491658&idx=1&sn=76946720de56c1de24e078e3b915fce0": "从 SSRF 到 RCE：一次众测Fastjson<=1.2.68反序列化RCE过程|挖洞技巧",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503427&idx=1&sn=68e2ee9124e84ee0b05694b0952cec7f": "安全热点周报：Ivanti EPMM 远程代码执行漏洞已被利用于有限的攻击中",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247538917&idx=1&sn=73d4461f6b7ff10643dc088854fec577": "关键基础设施遭受攻击：漏洞成为黑客首选武器",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507761&idx=1&sn=ef3242ad509ed6a12634f21f802dcd5d": "漏洞通告 | Grafana 开放重定向与服务端请求伪造漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMDIwODM2MA==&mid=2653932190&idx=1&sn=c30630174b2223f93458c6ee9e77de2b": "OpenAI大语言模型漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247489795&idx=1&sn=a8d894b25d88572f7cedf21034f26c27": "【1day】某无提示云挖矿4链盗u系统前台文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247484806&idx=1&sn=be2659279b030eef5e06feca6531b7ad": "【漏洞预警】Grafana未授权跨站点脚本攻击xss和SSRF漏洞（CVE-2025-4123）",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900594&idx=1&sn=49967bc1a632a5d21d61181929a64604": "Windows Server 2025 “BadSuccessor”漏洞解析：dMSA 新特性反成“权限赠予后门”，域控一击即溃",
+    "https://mp.weixin.qq.com/s?__biz=MzIyNTIxNDA1Ng==&mid=2659211870&idx=1&sn=e5eb84aa661afeffb2798381b6d15335": "浅析SpringBoot框架常见未授权访问漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496002&idx=2&sn=85d90003c5777cda7d6cdc539c3b982d": "上周关注度较高的产品安全漏洞(20250519-20250525)",
+    "https://mp.weixin.qq.com/s?__biz=MzI2MzU0NTk3OA==&mid=2247506384&idx=1&sn=d41497eacbe57bb1d5fa6beafb7f122a": "每周网安资讯 （5.20-5.26）| Poedit 安全漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514421&idx=2&sn=cce953e1f93937d286c85ab93f963865": "首次利用OpenAI o3模型发现Linux内核零日漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069834&idx=1&sn=335db8c1f2b23d140ba49e50ec855ed0": "【安全圈】ViciousTrap 利用思科漏洞操控全球 5,300 台设备构建蜜罐监控网络",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496002&idx=1&sn=42ceff19e40ee69f47921352b4acc3b9": "CNVD漏洞周报2025年第19期",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491599&idx=1&sn=165d0ffc3c03a14a2d0a30a5801c2a54": "Pichome 任意文件读取漏洞 (CVE-2025-1743)"
 }
