@@ -14621,5 +14621,13 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501121&idx=2&sn=50940420fb1e9fde2dce1f8f6a5226ae": "【漏洞通告】Google Chrome V8越界写入漏洞(CVE-2025-5280)",
     "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247520801&idx=1&sn=bad2cedc1a8020024460f7f56dd36323": "小程序渗透记录：通过细节挖掘漏洞的艺术",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069879&idx=4&sn=457158cecc79f277656b8bad13f79e3f": "【安全圈】WordPress TI WooCommerce Wishlist 插件漏洞使 100,000+ 网站遭受网络攻击",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247492987&idx=1&sn=971a25f5792cacbcea29955536f4eb2e": "黑客利用 OttoKit WordPress 插件漏洞添加管理员帐户"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247492987&idx=1&sn=971a25f5792cacbcea29955536f4eb2e": "黑客利用 OttoKit WordPress 插件漏洞添加管理员帐户",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247506513&idx=1&sn=6e00e60bc051e20d313ebd7d41019761": "当漏洞成为“数字战争”的弹药，谁能改写攻防规则？",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493266&idx=1&sn=de829eb3c1e29e04102463d8eeab8237": "漏洞预警 | 银达汇智智慧综合管理平台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493266&idx=2&sn=6230f92f0d41acbeee78849f7bcbecf9": "漏洞预警 | 朗速ERP任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795277&idx=3&sn=4946fecf57e0352b5f735171deca723c": "Windows 11 文件资源管理器漏洞（CVE-2025-24071）POC发布",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247488578&idx=1&sn=1c4b4a1e5f29731aea07d04ad731b665": "任意文件读取&下载漏洞的全面解析及利用",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493266&idx=3&sn=914afcabd8edcc167e4b033e85e3b45e": "漏洞预警 | 万户ezOFFICE SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795277&idx=2&sn=c13a6632f6952677d33342a4e5c8776c": "AyySSHush：利用华硕已修复漏洞组建僵尸网络的间谍技术",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652251946&idx=1&sn=dcddbfbfeafc956cfe3d93380c79bda2": "Ivanti漏洞被利用进行链式攻击，英国NHS医疗数据面临风险"
 }
