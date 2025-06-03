@@ -14753,5 +14753,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzU1NTQ5MDEwNw==&mid=2247485116&idx=1&sn=306e44f00e3fa6ac9ef562887dfe241e": "天擎终端安全管理系统getsimilarlist存在SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzk0NDU5NTc4OA==&mid=2247484586&idx=1&sn=61cc63ef6e7072a562ffca32d9e0498a": "java审计之下载漏洞获取到的代码如何断点调试",
     "https://mp.weixin.qq.com/s?__biz=MzU3MjczNzA1Ng==&mid=2247497545&idx=2&sn=388a1ddd29a198e2ec0aa94088e91f4f": "SRC漏洞挖掘：别再盯着那些烂大街的姿势了！",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247521231&idx=1&sn=497bf82f8e4dc070256e7da622bae771": "粉丝福利*3《攻击网络协议：协议漏洞的发现+利用+保护》"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247521231&idx=1&sn=497bf82f8e4dc070256e7da622bae771": "粉丝福利*3《攻击网络协议：协议漏洞的发现+利用+保护》",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490173&idx=1&sn=4f5ff7a32aaddb7668e87502c08b810a": "【高危漏洞预警】YAML-LibYAML信息泄露漏洞(CVE-2025-40908)"
 }
