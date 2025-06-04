@@ -14787,5 +14787,21 @@
     "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503426&idx=1&sn=115407d3c71a09bb32a1e396ce382f5a": "雷神众测漏洞周报2025.5.26-2025.6.2",
     "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501135&idx=2&sn=482408cecbddba76f261d8619d97d676": "【漏洞通告】Google Chrome V8引擎越界读写漏洞(CVE-2025-5419)",
     "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248052&idx=1&sn=54f78fda5dc9802dddda0d47a5adbc43": "谷歌Chrome零日漏洞遭广泛利用，可执行任意代码 | 顶级大模型向警方举报用户！AI告密排行榜出炉",
-    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247489823&idx=1&sn=050f5a09a08d9878b8aa12897bdb5165": "某优化版PHP九国语言交易所存在前台SQL注入漏洞"
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247489823&idx=1&sn=050f5a09a08d9878b8aa12897bdb5165": "某优化版PHP九国语言交易所存在前台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458595168&idx=3&sn=1778f7b154f1be5f2139f7fdca6dc4be": "潜伏10年！Roundcube Webmail 重大安全漏洞曝光，CVSS 评分 9.9",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247492623&idx=1&sn=850372f429fe2877e3bc96d0d6f52967": "警惕！境外间谍借系统漏洞，直击党政科研要害！",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664243600&idx=1&sn=a254cce915bb8018f5d4620176b69f20": "CNNVD | 关于Google Chrome安全漏洞的通报",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503443&idx=1&sn=763f543a4089f1b08833ccbac7059be5": "【新安全事件】vBulletin 远程代码执行漏洞(CVE-2025-48827)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096308&idx=1&sn=d4d276386458934743383a476c8c2723": "新的 Safari XSS 漏洞利用 JavaScript 错误处理来执行任意代码",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523177&idx=2&sn=5f49791311ee93aa1acd5a1dd56c0a88": "慧与：注意这个严重的 StoreOnce 认证绕过漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503353&idx=1&sn=2879dd13e8053ea89d8b73c643cf584c": "【成功复现】ZZCMS系统SQL注入漏洞(CVE-2025-0565)",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247485832&idx=1&sn=6a0c5ca8f71c5978b6a1f2957346dcec": "Nacos漏洞实战攻防",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651137085&idx=2&sn=a1068ce13789e6cc3241c9e621774f49": "合规管理公司出现合规问题：Vanta系统漏洞导致客户数据交叉泄露：DevOps安全警报：配置错误成为加密劫持攻击新途径 | 牛览",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484865&idx=1&sn=8b1d3df35de589153681dbd36d404672": "安钥®「漏洞防治标准作业程序（SOP）」征文启示 [2025年第22期，总第40期]",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463091&idx=1&sn=cf5d4e1447040ab6b1b31484430e7834": "CNNVD关于Google Chrome安全漏洞的通报",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523177&idx=1&sn=6ead40fb0a70735a161f4ecd984a3f01": "谷歌悄悄紧急修复已遭利用的 Chrome 0day",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzUyMjk2MQ==&mid=2247484462&idx=1&sn=7a2f920a5bd2ec339a782f88f68fa3ed": "llama_Index SQL注入漏洞（CVE-2025-1750）POC及本地复现部署环境",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651322480&idx=4&sn=1305aad8febb12c5f092cba247ab1534": "谷歌紧急发布安卓安全更新，修复多项高危漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247496548&idx=1&sn=80b474dcabbcb2690af97241a091e02e": "【论文速读】| SecVulEval：针对真实世界C∕C++漏洞检测的LLM基准测试",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069999&idx=2&sn=31032694ae0b355efabdb89fde5ebc02": "【安全圈】高通紧急发布 5 月补丁，修复 3 个 Adreno GPU 零日漏洞"
 }
