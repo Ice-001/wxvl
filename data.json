@@ -15005,5 +15005,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247489961&idx=1&sn=9ceb6db022621cae9f729d0aaecf12d6": "漏洞挖掘实战之弯道超车",
     "https://mp.weixin.qq.com/s?__biz=MzkzNTYwMTk4Mw==&mid=2247489508&idx=1&sn=0bfab3f39b28fb33bba8abd281d49b07": "Redis未授权漏洞复现汇总",
     "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503414&idx=1&sn=ac899c057f0552dd0ecad669c0863b2a": "【成功复现】Roundcube Webmail代码执行漏洞(CVE-2025-49113)",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247499492&idx=2&sn=151192a329acd78bab79ba17fb067d37": "KAFKA CLIENT 3.9.0 及以下版本存在服务器端请求伪造漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247499492&idx=2&sn=151192a329acd78bab79ba17fb067d37": "KAFKA CLIENT 3.9.0 及以下版本存在服务器端请求伪造漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNTA0NzgyMA==&mid=2247484267&idx=1&sn=9acb4f45d2ea2b3cf8a88262ef691961": "CLFS cve-2022-37969",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMDQyMTIzMA==&mid=2247484871&idx=1&sn=93c960e76cecd00e2ac4a5d93e4e12b9": "【复现】Kafka Connect任意文件读取漏洞（CVE-2025-27817）风险通告",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524465&idx=1&sn=900b4d98a5bc47ffd6eaa0ceca281a07": "【漏洞通告】Apache Kafka Connect 任意文件读取漏洞(CVE-2025-27817)"
 }
