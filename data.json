@@ -14998,5 +14998,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490219&idx=1&sn=acf6dce0f219c2ea5a110199ed4b8a7f": "【高危漏洞预警】Apache Kafka Client 任意文件读取与SSRF漏洞CVE-2025-27817",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490219&idx=2&sn=0501ee9f75de1f6f609c9c7c75b2d66e": "【高危漏洞预警】Apache Kafka Client配置造成远程代码执行漏洞CVE-2025-27818",
     "https://mp.weixin.qq.com/s?__biz=Mzg3MDU1MjgwNA==&mid=2247487457&idx=1&sn=a167e6d3edc69691a44053b8b3e7a302": "实战讲解 Java代码审计之 FreeMarker模版注入漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651137136&idx=1&sn=476cddcaef4be59b5b96cf166775ebf4": "漏洞管理玩法已变，四大常见错误亟待摒弃"
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651137136&idx=1&sn=476cddcaef4be59b5b96cf166775ebf4": "漏洞管理玩法已变，四大常见错误亟待摒弃",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501170&idx=2&sn=e7ea349dff54c8123a16fa49b1158f9b": "【漏洞通告】Apache Kafka Connect LDAP远程代码执行漏洞(CVE-2025-27818)",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247496573&idx=1&sn=f701e4ac102fbed8f25d4461e7b75f97": "【论文速读】| VADER：漏洞评估、检测、解释和修复的人工评估基准",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501170&idx=3&sn=6eb1c5ad37527cefeda8cb6557e090a2": "【漏洞通告】Apache Kafka Broker JNDI远程代码执行漏洞(CVE-2025-27819)",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247489961&idx=1&sn=9ceb6db022621cae9f729d0aaecf12d6": "漏洞挖掘实战之弯道超车",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNTYwMTk4Mw==&mid=2247489508&idx=1&sn=0bfab3f39b28fb33bba8abd281d49b07": "Redis未授权漏洞复现汇总",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503414&idx=1&sn=ac899c057f0552dd0ecad669c0863b2a": "【成功复现】Roundcube Webmail代码执行漏洞(CVE-2025-49113)",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247499492&idx=2&sn=151192a329acd78bab79ba17fb067d37": "KAFKA CLIENT 3.9.0 及以下版本存在服务器端请求伪造漏洞"
 }
