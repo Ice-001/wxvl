@@ -15053,5 +15053,19 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&mid=2247527122&idx=2&sn=c1ff1f433717b608b87e76da427bada1": "2025年5月企业必修安全漏洞清单",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651322893&idx=3&sn=acca4bafe06c06c3a0e8756199e46a51": "Windows WebDAV 零日远程代码执行漏洞遭野外利用",
     "https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247484805&idx=1&sn=041adf9e2748f03fb2222d934f9fe44f": "【漏洞复现】九思oa漏洞之SQL注入",
-    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070121&idx=4&sn=e69c74fd7874857df6d38295cf981b80": "【安全圈】微软警告：Windows远程桌面服务重大漏洞（CVE-2025-32710）可被远程执行代码，影响多版本服务器系统"
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070121&idx=4&sn=e69c74fd7874857df6d38295cf981b80": "【安全圈】微软警告：Windows远程桌面服务重大漏洞（CVE-2025-32710）可被远程执行代码，影响多版本服务器系统",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795408&idx=3&sn=82d287ab28956a7998831567e01e18a8": "Roundcube RCE 漏洞被迅速利用，超过 8 万台服务器受到影响",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497717&idx=1&sn=6efe3ab6e5bb1234ee1fb95dd939bdd6": "一个$1,337的漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493999&idx=2&sn=46385911a4e1601f37064aba5c5a96b9": "漏洞可能导致与任意谷歌账户关联的手机号码遭泄露",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488578&idx=1&sn=4142428c58764503e46c884b4b84ac1c": "漏洞预警：用友NC loadDoc.ajax接口存在任意文件读取漏洞 附POC",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493999&idx=3&sn=c093f32039ae5e0e02166b94042cc5a2": "SAP 2025年6月安全补丁日修复关键NetWeaver漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NjY3OTQ3NA==&mid=2247487000&idx=1&sn=5be4c11c561976988ba5b9f0fff70ccb": "客户端漏洞挖掘方法论在车机系统中的延伸：任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611039&idx=3&sn=270f5fe6538f79d74f39aeae9e4815b0": "某景人事管理系统漏洞挖掘与分析",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247487487&idx=1&sn=e7017d76417d578514aadbbcd40f83f7": "漏洞预警 |Kafka Connect存在任意文件读取漏洞（CVE-2025-27817）",
+    "https://mp.weixin.qq.com/s?__biz=MzAxNzkyOTgxMw==&mid=2247494376&idx=1&sn=bfac9cacc14a4968dfc10275a87819e9": "DataEase 远程代码执行漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4ODg4NDA2Mw==&mid=2247483849&idx=1&sn=0a3d86cea5da79e418d2a716f77139e9": "深度剖析JSONP注入漏洞：JavaScript回调函数引发的会话弹窗劫持",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247493999&idx=1&sn=425510992775377d64d1b80cae9afe43": "随着Roundcube RCE漏洞被快速利用，超过80,000台服务器受到影响",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247486712&idx=1&sn=277f4b4f516792ce44bd7024784afc29": "【PHP代审】记一次某海外酒店管理系统漏洞复现分析+0day挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795408&idx=1&sn=97ff557b8ea3c77ae4cb7e820b8b3db2": "微软 Copilot 严重漏洞可能引发零点击攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503477&idx=1&sn=1410a653474bbb82b32dadab97a47c7b": "微软6月补丁日多个产品安全漏洞风险通告：1个在野利用、9个紧急漏洞"
 }
