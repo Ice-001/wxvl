@@ -15094,5 +15094,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247510877&idx=2&sn=96d346ba4108bb4a527b458d08ee33e4": "高危漏洞打包兜售，Palo Alto、Fortinet、Linux等关键系统在列",
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503493&idx=1&sn=0810b8ac4e0360b1135b0ff03117cf88": "【已复现】契约锁电子签章系统远程代码执行漏洞(QVD-2025-23408)安全风险通告",
     "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463175&idx=1&sn=e76aec19728e7bf74ec7c039ed40a84b": "CNNVD关于微软多个安全漏洞的通报",
-    "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514505&idx=1&sn=df286bcbf807c8444c7f8356b70aef56": "首个AI Agent零点击漏洞曝光：一封邮件窃取企业AI任意敏感数据"
+    "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514505&idx=1&sn=df286bcbf807c8444c7f8356b70aef56": "首个AI Agent零点击漏洞曝光：一封邮件窃取企业AI任意敏感数据",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487463&idx=1&sn=230ead607780050b503f02a16d4d3a5a": "CVE-2025-24071 - Windows 文件资源管理器欺骗漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NTMxMjQ4OA==&mid=2247486106&idx=1&sn=1bea9729146539683a59af9a3d9470e8": "EchoLeak-首个导致 M365 Copilot 数据泄露的零点击 AI 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651137167&idx=2&sn=90da648f75c3d6d696f4946823f2f495": "突发！奔驰车载系统大面积崩溃；首个已知AI零点击漏洞细节曝光 | 牛览",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507799&idx=1&sn=c6c3a09312697bafa11f8e2f5212f32b": "漏洞通告|GeoServer SSRF和XXE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490229&idx=1&sn=6b844c89011b2be9e981cc80fce4ad24": "【高危漏洞预警】契约锁电子签章系统远程代码执行漏洞"
 }
