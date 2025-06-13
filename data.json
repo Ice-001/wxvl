@@ -15103,5 +15103,11 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247492348&idx=1&sn=441320a8e415c5b15d5bff94373be065": "Mitmproxy GUI用于解决渗透测试加解密的难题 让你的Burp像测试明文这么简单|漏洞探测",
     "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247636174&idx=4&sn=029142f90dac9e6d869184d8f7e327e0": "首个AI Agent零点击漏洞曝光：一封邮件窃取企业AI任意敏感数据",
     "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485930&idx=2&sn=597b6e0652540813677b77802e4ece5e": "【漏洞预警】Apache Kafka Connect高危漏洞（CVE-2025-27817）可致任意文件读取,影响核心数据安全！",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNTA0NzgyMA==&mid=2247484271&idx=1&sn=bee4e651a74eda4316b37d8d05f9bda1": "CVE-2023-36802 mskssrv type confusion 提权"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNTA0NzgyMA==&mid=2247484271&idx=1&sn=bee4e651a74eda4316b37d8d05f9bda1": "CVE-2023-36802 mskssrv type confusion 提权",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489167&idx=5&sn=ffc9d9d2742c9eb3dc02b07aa94ffac6": "智能汽车安全-漏洞挖掘到控车攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493384&idx=2&sn=623168715fc93b9909e495f849eab793": "漏洞预警 | 宏景eHR SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655282707&idx=1&sn=170fd31c2ce98adbb314614194200315": "任意文件上传漏洞及常见框架Getshell分析",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488098&idx=1&sn=e93a71177440f649281a364558f31984": "微软Copilot惊现全球首个零点击AI漏洞，企业敏感数据可被无声窃取！",
+    "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651133508&idx=1&sn=a1a24531dc07e9cd843152fd14412d8e": "电力安全预警！3.5万台漏洞太阳能设备在公网暴露",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488300&idx=1&sn=4a32474b0aef6f2773b86d1411080556": "java审计之下载漏洞获取到的代码如何断点调试"
 }
