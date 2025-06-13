@@ -15152,5 +15152,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489173&idx=6&sn=86ac44403dba82e570f2f0f07ff3715f": "智能汽车安全-漏洞挖掘到控车攻击",
     "https://mp.weixin.qq.com/s?__biz=MzU3MDg2NDI4OA==&mid=2247491228&idx=1&sn=052a45b2108d847c0ec904a1c3075ce6": "两载光阴，我与0day的两次匿名邂逅",
     "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512480&idx=1&sn=dcf723277dd1aec37f2aa37635844c78": "企业级VPN NetExtender任意文件删除到权限提升漏洞剖析",
-    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523281&idx=1&sn=39fe6b4ec8cebc0a362c26c8fffbd2c7": "GitLab 修复高危的账户接管和认证缺失漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523281&idx=1&sn=39fe6b4ec8cebc0a362c26c8fffbd2c7": "GitLab 修复高危的账户接管和认证缺失漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096328&idx=1&sn=9f3ab73cf1559928f01fbf5e1ce41fdf": "Windows 任务计划程序允许攻击者提升权限漏洞"
 }
