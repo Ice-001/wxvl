@@ -15155,5 +15155,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523281&idx=1&sn=39fe6b4ec8cebc0a362c26c8fffbd2c7": "GitLab 修复高危的账户接管和认证缺失漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096328&idx=1&sn=9f3ab73cf1559928f01fbf5e1ce41fdf": "Windows 任务计划程序允许攻击者提升权限漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489218&idx=6&sn=77731b726421696f62ebfb236a653c3c": "智能汽车安全-漏洞挖掘到控车攻击",
-    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490237&idx=1&sn=dfd4f48b27c1593002da37e03645a275": "【高危漏洞预警】GeoServer未授权服务器端请求伪造(SSRF)漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490237&idx=1&sn=dfd4f48b27c1593002da37e03645a275": "【高危漏洞预警】GeoServer未授权服务器端请求伪造(SSRF)漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247582873&idx=1&sn=0b714276ab832a9ba16514a3d8bceb01": "新型Mirai僵尸网络通过命令注入漏洞感染TBK DVR设备",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488604&idx=1&sn=14924432f473c81796e50ec5cb00b963": "Optilink管理系统gene.php接口存在远程命令执行漏洞 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489218&idx=4&sn=fa277c4ca4189e8764162fab696c7a36": "一次奇妙的降价支付逻辑漏洞挖掘之旅",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MTUwMjQ5Nw==&mid=2247488984&idx=1&sn=90ec422c5c51bf0061ae125313358ac3": "PHP 类型杂耍漏洞：攻击者如何利用松散比较"
 }
