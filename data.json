@@ -15250,5 +15250,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247535205&idx=1&sn=79c060ff2a09da91f05ed22d90bb8400": "【漏洞预警】：高危警报！微软公司通报多个安全漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzU2MzY1NjU3Ng==&mid=2247485933&idx=1&sn=881ac470d0f0990bb7dce2c7e0ecb769": "企业内部安全漏洞修复流程的建立与思考（其四）",
     "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490417&idx=1&sn=73dca860bb720796610dd88e6c9767a6": "【AI风险通告】MCP Inspector存在远程代码执行漏洞（CVE-2025-49596）",
-    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490246&idx=2&sn=e25fdd6dcc4c1c4e4f8529b472db1979": "【AI高危漏洞】MCP Inspector未授权访问致代码执行漏洞（CVE-2025-49596）"
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490246&idx=2&sn=e25fdd6dcc4c1c4e4f8529b472db1979": "【AI高危漏洞】MCP Inspector未授权访问致代码执行漏洞（CVE-2025-49596）",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247492664&idx=1&sn=34327021796479c56b9f78e1d53f26e3": "Windows SMB 权限提升漏洞(CVE-2025-33073)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524798&idx=2&sn=a2dcf508bc426cbf09d35addc83dacf7": "IBM 备份服务漏洞让攻击者能够提升权限",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523297&idx=2&sn=ea60b085762fef54a56dea85a3150a40": "超4.6万个 Grafana 实例易受账户接管漏洞影响",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MTUwMjQ5Nw==&mid=2247488986&idx=1&sn=5ed544bfa806db85622785e6ebe8ff92": "客户端路径遍历（CSPT）——深入探究被忽视的漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516823&idx=1&sn=d8671ca4475900732cf71c35861bbfab": "Nuclei POC 漏洞验证可视化工具 -- Wavely（6月12日更新）"
 }
