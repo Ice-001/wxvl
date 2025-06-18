@@ -15288,5 +15288,13 @@
     "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524812&idx=1&sn=ea5a04de3ac9f9e781c22bd8c4965af3": "Apache Tomcat 漏洞允许绕过身份验证和 DoS 攻击",
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523309&idx=2&sn=d3e035c89c35c26ad0a1cad90861ac97": "CISA 将TP-Link 路由器高危漏洞纳入KEV",
     "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524812&idx=4&sn=bdd8e81bf4090a9661e5fabf07d8ef15": "CVE-2025-49596：MCP Inspector 严重远程代码执行漏洞威胁AI开发环境安全",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487482&idx=1&sn=29b768458f613dde0a9d156c37581d15": "CVE-2025-33073 针对 NTLM 反射 SMB 缺陷"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487482&idx=1&sn=29b768458f613dde0a9d156c37581d15": "CVE-2025-33073 针对 NTLM 反射 SMB 缺陷",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493433&idx=3&sn=08058cf5a01e256b72d5aef1908c5172": "漏洞预警 | 四信通信科技有限公司设备管理平台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxOTIzNDgwMQ==&mid=2247484672&idx=1&sn=5f9214cd934f0842aa5278e163286f38": "契约锁电子签章系统dbtest RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493433&idx=1&sn=cc65bcd8f82f0fd1b46fd746ecbba41e": "漏洞预警 | Windows SMB权限提升漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488122&idx=1&sn=7dd4a081bf219591dd2dbc6b337abe09": "硬编码密码“b”引发重大风险！Sitecore XP漏洞威胁全球企业安全",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247492478&idx=1&sn=f7c44f86be38638134d679e6fb3b8ffd": "ChkApi - API漏洞安全检测自动化工具、解析Swagger规范Bypass未授权检测等|漏洞探测",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5OTg5OTI1NQ==&mid=2247491094&idx=1&sn=a014710ea7216eacadbc94c61f81151b": "漏洞管理玩法已变",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489430&idx=4&sn=f3902e0390467757e2b77e6939daebb2": "任意文件读取&下载漏洞的全面解析及利用",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493433&idx=2&sn=3fc5387da9750f0124a0ec66bb9729e0": "漏洞预警 | 用友NC任意文件读取漏洞"
 }
