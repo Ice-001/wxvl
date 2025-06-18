@@ -15329,5 +15329,12 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484906&idx=2&sn=97b955ee68e3ad6b31a6b5ecc0278dcd": "入选作品公布｜安钥®「漏洞处置标准作业程序（SOP）」征文第四十期",
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519484&idx=1&sn=7bbad01455dcf564a7f70052be340777": "微软漏洞赏金TOP教你攻击网络协议",
     "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490423&idx=1&sn=36a82489f3056c2530dd2906ac91c352": "【已复现】泛微E-cology9存在远程代码执行漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490265&idx=1&sn=432dd1cb6769a98e401d684226627eb1": "【高危漏洞预警】泛微E-cology9 远程代码执行漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490265&idx=1&sn=432dd1cb6769a98e401d684226627eb1": "【高危漏洞预警】泛微E-cology9 远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493007&idx=1&sn=b20a374d3ca3b7006b0efb5ae5029fd5": "英特尔 CPU 新漏洞导致特权内存中的敏感数据泄露",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494039&idx=2&sn=434cc36cf0d74dc86fc89af3d189743f": "【已复现】Windows SMB 权限提升漏洞（CVE-2025-33073）",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523322&idx=1&sn=33329d3ec49e0f180be0dcedb8cd70a4": "谷歌 Gerrit 代码平台漏洞可用于供应链攻击，18个谷歌项目受影响",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488643&idx=1&sn=b27e3aba1632dd12bad93e6c83fe107a": "契约锁电子签章系统dbtest接口存在远程命令执行漏洞 附POC",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247492488&idx=1&sn=7c1e6f59ac98e6a9ef8a0a714166ab45": "渗透必备工具箱V9(更新) 集成Web扫描、漏洞利用、抓包、免杀等等|漏洞探测",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NzgyODEzNQ==&mid=2247489365&idx=2&sn=c4c745e3b68fe39fddc6bb157e321d50": "红队终极指南：“A-poc∕RedTeam-Tools”",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494039&idx=1&sn=9761f150a71b2c5fb70b38b9a089006c": "【已复现】泛微 E-cology9 SQL注入漏洞"
 }
