@@ -15382,5 +15382,13 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzNjczNzEyMw==&mid=2247484535&idx=1&sn=8820fba10b35b6b69e053beab3552640": "宝塔RCE完整说明",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490273&idx=1&sn=d48bf4bef564819f0e7b48beb5277bbd": "【高危漏洞预警】SUSE 15 PAM本地提权漏洞（CVE-2025-6018）",
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523333&idx=1&sn=7293c7dd1145ab18fd71d834ad208fe0": "BeyondTrust：注意远程支持软件中的预认证RCE",
-    "https://mp.weixin.qq.com/s?__biz=MzkxMzQyMzUwMg==&mid=2247486686&idx=1&sn=cbd68c8179320c42afeb7e4aeb053c20": "看完这篇再挖不到漏洞，请顺着网线来砍我"
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzQyMzUwMg==&mid=2247486686&idx=1&sn=cbd68c8179320c42afeb7e4aeb053c20": "看完这篇再挖不到漏洞，请顺着网线来砍我",
+    "https://mp.weixin.qq.com/s?__biz=MzIzNTE0Mzc0OA==&mid=2247486412&idx=1&sn=be56a747f065aecc4f7aff884f151e2b": "漏洞赏金工具 - BBtool",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524855&idx=2&sn=d172a2662ecccc74a4853c320e8e45bf": "串联两个本地提权漏洞获取root权限：多数Linux发行版受影响（CVE-2025-6018、CVE-2025-6019）",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488656&idx=1&sn=0f20df860f2ce3b09498578185b5795d": "GeoServer TestWFSpost 存在SSRF漏洞CVE-2024-29198 附POC",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484912&idx=1&sn=231332522ccc8edc4d7cd46df1c75b8c": "初识安全漏洞防治SOP",
+    "https://mp.weixin.qq.com/s?__biz=MzI1MDA1MjcxMw==&mid=2649908313&idx=1&sn=87a20fea7a0c6a7945693d4bea825696": "Chrome N-Day漏洞利用工程指南",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMTUwOTY1MA==&mid=2247491061&idx=1&sn=3773fa7a546c57d53836cf0d764ac999": "漏洞管理平台VulnArk 紧急删除，备份速下！",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531136&idx=2&sn=71883f588c565f53ef733bcfcb8c5c13": "Linux 内核 OverlayFS 漏洞 (CVE-2023-0386) 被利用来提升 Root 权限",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247488862&idx=1&sn=672add026f3f250b4406a9a23d277c9e": "CVE-2025-6019: 从 allow_active 到 root 的本地提权漏洞 (LPE)"
 }
