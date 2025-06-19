@@ -15390,5 +15390,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzI1MDA1MjcxMw==&mid=2649908313&idx=1&sn=87a20fea7a0c6a7945693d4bea825696": "Chrome N-Day漏洞利用工程指南",
     "https://mp.weixin.qq.com/s?__biz=MzkxMTUwOTY1MA==&mid=2247491061&idx=1&sn=3773fa7a546c57d53836cf0d764ac999": "漏洞管理平台VulnArk 紧急删除，备份速下！",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531136&idx=2&sn=71883f588c565f53ef733bcfcb8c5c13": "Linux 内核 OverlayFS 漏洞 (CVE-2023-0386) 被利用来提升 Root 权限",
-    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247488862&idx=1&sn=672add026f3f250b4406a9a23d277c9e": "CVE-2025-6019: 从 allow_active 到 root 的本地提权漏洞 (LPE)"
+    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247488862&idx=1&sn=672add026f3f250b4406a9a23d277c9e": "CVE-2025-6019: 从 allow_active 到 root 的本地提权漏洞 (LPE)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NDg2NTM3NQ==&mid=2247484808&idx=1&sn=5abe422c4016fe5301be0b7b67ce939e": "关于漏洞“宝塔Linux面板存在任意命令执行”的说明",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485953&idx=1&sn=8c198027b4a8441d92fc0ca20bdcc39d": "CVE-2025-48957 AstrBot get_file接口存在任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTUwNTU5Nw==&mid=2247489427&idx=1&sn=7f1e28621d60874665996bfed2a5abbb": "关于网传“宝塔Linux面板存在任意命令执行”的说明"
 }
