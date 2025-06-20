@@ -15413,5 +15413,13 @@
     "https://mp.weixin.qq.com/s?__biz=MzU1ODk1MzI1NQ==&mid=2247492274&idx=1&sn=e9ecde35f94e0fc28479875b6aab3b29": "LLM驱动的UEFI固件漏洞智能分析实践",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491869&idx=1&sn=2af23c0d3c462b35a2bc5c70e4d5fc16": "用友U8 CRM SelectDMJE.jsp SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247484863&idx=1&sn=b145230e60dec073587ed6e332e57aa7": "【漏洞复现】泛微e-cology 未授权SQL注入漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652116672&idx=2&sn=ad75e106efc11a2a208b30168436e7d7": "微软2025年6月份于周二补丁日针对67漏洞发布安全补丁"
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652116672&idx=2&sn=ad75e106efc11a2a208b30168436e7d7": "微软2025年6月份于周二补丁日针对67漏洞发布安全补丁",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247488885&idx=2&sn=bb25cb772bed5bb954b079821a9ac205": "NTLM 反射攻击复现 - 滥用 NTLM 进行权限提升 (CVE-2025-33073)",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247583172&idx=2&sn=ba838828e94a76da83b0d79076a0969e": "DanaBleed新漏洞使 DanaBot恶意软件即服务平台浮出水面",
+    "https://mp.weixin.qq.com/s?__biz=MzI1MTYzMjY1OQ==&mid=2247491147&idx=1&sn=96cbaf8867e8cb3d1a5dd586995a4966": "能信安：漏洞通告",
+    "https://mp.weixin.qq.com/s?__biz=MzAxNDkzNjQ0Mw==&mid=2247483963&idx=1&sn=d4147631169c4f3f4d59a9a061d95188": "SVG 嵌套钓鱼溯源分析：基于可信域名 XSS 漏洞的黑产分发链追踪",
+    "https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064207&idx=1&sn=fa2366eac8519eb7a23aefb690c81d82": "信息安全漏洞周报【第027期】",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651142691&idx=1&sn=8aa8493bec0e7681c003aaac23cdbeaa": "IoT漏洞分析之模拟环境搭建",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzYyNzQ1NA==&mid=2247485521&idx=1&sn=134e927a37122d16d95fa35deabe69b0": "漏洞扫描神器AWVS最新版2025.4",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247488885&idx=1&sn=c956b0f537a856ca365551087420ceee": "NTLM 反射已死，NTLM 反射长存！——深入分析 CVE-2025-33073"
 }
