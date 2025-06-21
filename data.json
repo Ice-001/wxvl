@@ -15436,5 +15436,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524876&idx=4&sn=9d9e9b842c97da2e355156fcff3f36eb": "Apache SeaTunnel 漏洞允许未经授权的用户进行反序列化攻击",
     "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652116686&idx=2&sn=6528b7da213e0895a48a14ee1b8e27b4": "Veeam备份和复制中CVSS评级为9.9的严重RCE漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247485970&idx=1&sn=1c7e97d2e1a8c9348506e82951046672": "【漏洞复现】泛微e-cology 未授权SQL注入漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247521110&idx=1&sn=0b4031953de11bc1668753da586d4e3a": "PHP 静态分析漏洞挖掘：挑战、对策与研究进展综述"
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247521110&idx=1&sn=0b4031953de11bc1668753da586d4e3a": "PHP 静态分析漏洞挖掘：挑战、对策与研究进展综述",
+    "https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247519137&idx=1&sn=f34320074a73be0fb12aebfe9de74d94": "记一次实战小程序漏洞测试到严重漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523347&idx=2&sn=b6f02b127ba49b7fa05eec183cb4108a": "Sitcore XP中的硬编码密码 “b” 导致企业系统易受RCE攻击"
 }
