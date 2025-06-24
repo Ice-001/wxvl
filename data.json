@@ -15548,5 +15548,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501221&idx=2&sn=4a833bc0c5b81084001551c46f420b29": "【漏洞通告】Notepad++ v8.8.1安装程序特权提升漏洞 (CVE-2025-49144)",
     "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503440&idx=1&sn=d8b69e0070a73f607d010c0c6158d535": "雷神众测漏洞周报2025.6.16-2025.6.22",
     "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247500027&idx=2&sn=53f5863b82d57df201da83c7c6919937": "WinRAR 存在目录遍历远程代码执行漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247512932&idx=1&sn=20365ad5978c47084a2fe90b8593d2ca": "威胁情报：Notepad++ 本地提权漏洞 | POC已公开"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247512932&idx=1&sn=20365ad5978c47084a2fe90b8593d2ca": "威胁情报：Notepad++ 本地提权漏洞 | POC已公开",
+    "https://mp.weixin.qq.com/s?__biz=MzU3NzY3MzYzMw==&mid=2247500151&idx=1&sn=40e8f6ac31864ee418b3989c986172d5": "威胁情报：Notepad++ 本地提权漏洞 | POC已公开",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531265&idx=1&sn=19e218b029466f8e4f24059b96021fae": "Notepad++漏洞 PoC 发布，可提升权限至 NT AUTHORITY\\SYSTEM",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499937&idx=2&sn=be359f4df9c01e75d99bf6c17a5a38c9": ".NET 介绍一种新型 RCE 利用点分析与漏洞挖掘思路",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247500027&idx=1&sn=ada8dcbff73f3fb9ecd263cc0d15448f": "Notepad++ 存严重提权漏洞,PoC 已流出"
 }
