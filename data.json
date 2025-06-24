@@ -15552,5 +15552,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzU3NzY3MzYzMw==&mid=2247500151&idx=1&sn=40e8f6ac31864ee418b3989c986172d5": "威胁情报：Notepad++ 本地提权漏洞 | POC已公开",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531265&idx=1&sn=19e218b029466f8e4f24059b96021fae": "Notepad++漏洞 PoC 发布，可提升权限至 NT AUTHORITY\\SYSTEM",
     "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499937&idx=2&sn=be359f4df9c01e75d99bf6c17a5a38c9": ".NET 介绍一种新型 RCE 利用点分析与漏洞挖掘思路",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247500027&idx=1&sn=ada8dcbff73f3fb9ecd263cc0d15448f": "Notepad++ 存严重提权漏洞,PoC 已流出"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247500027&idx=1&sn=ada8dcbff73f3fb9ecd263cc0d15448f": "Notepad++ 存严重提权漏洞,PoC 已流出",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjU5NTY2MQ==&mid=2247484380&idx=1&sn=b7fa367d77e1483cb8a5a87d1478e578": "【漏洞复现】一次不一样的逻辑绕过"
 }
