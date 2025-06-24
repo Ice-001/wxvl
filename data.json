@@ -15526,5 +15526,20 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491914&idx=1&sn=35337886d7201b34709bbf6689a8a30c": "安科瑞环保用电监管云平台 UpLoadPic 任意文件上传漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493483&idx=1&sn=9c590617818f23d89234775a6c23dac4": "漏洞预警 | Veeam Backup & Replication远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491620&idx=1&sn=8917170e1628186b772f4eff20c61b8c": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年06月23日",
-    "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247515203&idx=1&sn=aa65a6a18fdb558e811f8b9c1010a23c": "台海热点诱饵！旺刺组织结合 0day 和 ClickOnce 技术开展间谍活动"
+    "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247515203&idx=1&sn=aa65a6a18fdb558e811f8b9c1010a23c": "台海热点诱饵！旺刺组织结合 0day 和 ClickOnce 技术开展间谍活动",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247583238&idx=2&sn=353765459c0cc7e6976ff211a8b1eab9": "超过46000个Grafana实例暴露于账户接管漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMDQ0NzQwNA==&mid=2247486827&idx=1&sn=a25724a950ba87c0352ab769c3f88bb2": "CVE-2021-41773 漏洞复现：从失败到成功的探索",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzQxMjQ4Ng==&mid=2247484252&idx=1&sn=5e962271608318dff0b47a2909cca7ea": "工具 | 泛微E-cology9 SQL 注入漏洞批量检测工具",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247486298&idx=1&sn=44fa8b1202c28d403d448d9a89a29654": "工具集：泛微E-cology9 SQL 注入漏洞批量检测工具",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NDg2NTM3NQ==&mid=2247484831&idx=1&sn=7375e6ef426b4fd5a0821baee05fcf67": "【CVE‑2025‑49144】Notepad++提权漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NDEzMDgzNw==&mid=2247485180&idx=1&sn=67de912aaaff345f53ddce1ec5491e9f": "CVE-2025-33053 网络快捷方式文件远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490297&idx=1&sn=e295cee3d68a7199efefddfb2c56c791": "【高危漏洞预警】Notepad++权限提升漏洞(CVE-2025-49144)",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489509&idx=1&sn=c5820741e13804146977fd7353102d67": "百万POC实时更新",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NDU4OTQ1NA==&mid=2247484735&idx=1&sn=af7af64dc94f3a3e03211889d55b5fb6": "内网横行：CVE-2025-33073 实战场景利用全流程指南 | 附利用工具",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493483&idx=2&sn=7928bf75a665a3f3f2320e3eae44f879": "漏洞预警 | JimuReport信息泄露漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490297&idx=3&sn=39b54018862cbe1a46157a367bcf2354": "【AI高危漏洞预警】langchain-ai信息泄露漏洞(CVE-2025-2828)",
+    "https://mp.weixin.qq.com/s?__biz=MzI3ODk3ODE2OA==&mid=2247484447&idx=1&sn=bc4dfbb6ff0e2b7d8cfb9f60918bf17a": "n8n安全：从漏洞利用到防御",
+    "https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247625266&idx=1&sn=7d747f1cb8f470b24f724c87fde28ece": "使用 UDS 自动发现 ECU - UDS是否是一个安全漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247492076&idx=1&sn=c161a60e6baa6ab0e5c752b83c22a82c": "EDUSRC-高危漏洞-从信息收集到后台多个越权漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247506770&idx=1&sn=b43532f3f972ae1cc74a3ac4cf9c3ff4": "破解 JWT：漏洞赏金猎人指南（第二部分）"
 }
