@@ -15603,5 +15603,15 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxNTY0NzgwNA==&mid=2247483980&idx=1&sn=4263cd05489194ff5d3e53a235bf3016": "CRMEB-CVE-2024-52726-任意文件下载漏洞分析",
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523373&idx=1&sn=046fdf8814e8311d4a31bd092804a2c2": "思杰修复 NetScaler ADC 和 Gateway 中的严重漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247521326&idx=1&sn=eee5b7db26999c41ad137213d0d90a1c": "记录某企业存储型XSS漏洞从发现到数据外泄全路径分析",
-    "https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247641086&idx=2&sn=7947f21af9546a6522db29daeb6323b0": "直播预告 | 攻防演练季应急自救指南-0Day∕NDay来袭，传统防护失效下该如何破局?"
+    "https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247641086&idx=2&sn=7947f21af9546a6522db29daeb6323b0": "直播预告 | 攻防演练季应急自救指南-0Day∕NDay来袭，传统防护失效下该如何破局?",
+    "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492852&idx=1&sn=63aa481b46b0e2ccc42748ad0107467f": "【已复现】Gogs 远程命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070352&idx=3&sn=cc4501ba6fd8153a01376bad11487244": "【安全圈】TeamViewer 高危漏洞通报（CVE-2025-36537）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NzkxOTQ0OA==&mid=2247484573&idx=1&sn=aceeff40c7236693b32fabb68ee8ab3b": "XDigo 恶意软件利用 Windows LNK 漏洞对东欧政府发动攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247511358&idx=1&sn=668ea03605884eaaecd7c4d02890cc31": "Brother、富士等多型打印机曝严重漏洞，核心问题无法通过固件修复",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493513&idx=1&sn=1ccc756f815c32f18e26fef511666ec0": "漏洞预警 | Linux本地提权漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493513&idx=2&sn=f6b4bc85401b58e71cdb7aa704901f29": "漏洞预警 | 云课网校系统任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493513&idx=3&sn=e9ebcf261289a95fb9471fcac2883806": "漏洞预警 | 泛微E-Cology SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247573676&idx=1&sn=e886de4de4e7bab19b5e175e478473af": "6款较流行的开源漏洞扫描工具推荐及特点分析",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247492658&idx=1&sn=083e602f09f084017608fce4fb9b60d5": "VulnCrawler v2.0- 漏洞情报拉取工具 一键抓取最新漏洞|漏洞探测",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491645&idx=1&sn=6961f6e6b2bf79b4616ac3459e85f91c": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年06月25日"
 }
