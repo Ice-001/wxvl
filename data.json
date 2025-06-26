@@ -15624,5 +15624,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499955&idx=1&sn=46257e085680fe9947bc90925d324f23": ".NET 介绍一种漏洞挖掘思路，绕过 GZip 实现反序列化",
     "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247500129&idx=2&sn=690cd25311a206b712e9f82b871929b6": "0day漏洞攻防竞赛：东大与美国的隐秘战争",
     "https://mp.weixin.qq.com/s?__biz=MzkwMzYyNzQ1NA==&mid=2247485618&idx=1&sn=0c172c8218bd712fd7319c25ea282f8a": "速速更新！WinRAR 又又又出漏洞了！",
-    "https://mp.weixin.qq.com/s?__biz=Mzg4Nzk3MTg3MA==&mid=2247488427&idx=1&sn=9fc8ecfaa6360e9fbcf4ea5c4618a39d": "“你刷的小红书，其实在裸奔？”——黑客揭秘App开发者模式背后的漏洞发现与利用"
+    "https://mp.weixin.qq.com/s?__biz=Mzg4Nzk3MTg3MA==&mid=2247488427&idx=1&sn=9fc8ecfaa6360e9fbcf4ea5c4618a39d": "“你刷的小红书，其实在裸奔？”——黑客揭秘App开发者模式背后的漏洞发现与利用",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503527&idx=1&sn=3aa5f32ac9d5200982fe5a13434d7eb8": "【已复现】Gogs 远程命令注入漏洞(CVE-2024-56731)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzQyMTg5OA==&mid=2247487980&idx=1&sn=458c8c0a91f96b54bfd02c02a7623273": "Java 安全 | JBossInterceptors1 & JavassistWeld1 链"
 }
