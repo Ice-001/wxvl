@@ -15667,5 +15667,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490428&idx=1&sn=4b291e73cec6a04e68da263a63257cd4": "【AI风险通告】LLaMA-Factory存在远程代码执行漏洞（CVE-2025-53002）",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487516&idx=1&sn=0022a5911bd065644f71a5821e3a10df": "WinRAR 缺陷（CVE-2025-6218）：通过目录遍历执行远程代码",
     "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499957&idx=1&sn=87ae1a8de70567795058011dbd6f5cb8": "分析和挖掘 .NET 系统全局权限访问绕过漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzIxODQ0NDEyNg==&mid=2247483975&idx=1&sn=d8c9debe6b2aa8ce6465872cba70a70e": "【漏洞通告】Apache Tomcat安全约束绕过漏洞 (CVE-2025-49125)"
+    "https://mp.weixin.qq.com/s?__biz=MzIxODQ0NDEyNg==&mid=2247483975&idx=1&sn=d8c9debe6b2aa8ce6465872cba70a70e": "【漏洞通告】Apache Tomcat安全约束绕过漏洞 (CVE-2025-49125)",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247497115&idx=3&sn=228ace9e52b723b17411f2f534d92f5b": "Python标准库tarfile模块存在任意文件写入高危漏洞，PoC已公开",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486060&idx=3&sn=a5a5c6016886294629d6e3236bd45cf4": "CVE-2025-33073｜Windows SMB权限提升漏洞"
 }
