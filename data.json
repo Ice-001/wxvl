@@ -15695,5 +15695,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247583407&idx=1&sn=3b90b3f97f49200853b4f780d12d0288": "Instagram 广告利用AI换脸漏洞欺骗银行客户",
     "https://mp.weixin.qq.com/s?__biz=Mzg3NzkwMTYyOQ==&mid=2247489610&idx=1&sn=f23cc2d5870633e77a858d561d8cc831": "工具分享 | Nuclei POC漏洞验证图形化工具更新至v3.1.5",
     "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496088&idx=1&sn=418faa9a83a09f3cdee7545462a61fa1": "CNVD漏洞周报2025年第24期",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324036&idx=3&sn=986b86eed49f12e022d02e8a20274ca8": "群晖ABM漏洞泄露全局客户端密钥，危及所有微软365租户"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324036&idx=3&sn=986b86eed49f12e022d02e8a20274ca8": "群晖ABM漏洞泄露全局客户端密钥，危及所有微软365租户",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523404&idx=2&sn=3ff2f901d13c30f8048d7a38b567880f": "蓝牙芯片集多个漏洞可导致攻击者窃听或盗取敏感信息",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494128&idx=2&sn=84fbc29915f49915f2acbdee7c978011": "【已复现】DataEase 多个远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507825&idx=1&sn=c8163fc109580e2fd0b793a34118ae75": "微步情报局再次发现DataEase存在多个高危漏洞，可实现RCE"
 }
