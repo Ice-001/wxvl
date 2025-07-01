@@ -15705,5 +15705,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247499565&idx=1&sn=34fc51e56817b871ded40c91db6234c1": "记一次从登录框到前台rce",
     "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496088&idx=2&sn=06d53998d9241762baedba11484d462b": "上周关注度较高的产品安全漏洞(20250623-20250629)",
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458596319&idx=1&sn=6ada3aaf69b4180a2d163d1405b5cca5": "最高3倍漏洞奖金，百万奖金等你来挖！华为终端安全奖励计划运营活动已重磅开启！",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494128&idx=1&sn=2db6b38b631e2ab23f15f65f29f75b13": "【已复现】WinRAR 目录遍历漏洞(CVE-2025-6218)"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494128&idx=1&sn=2db6b38b631e2ab23f15f65f29f75b13": "【已复现】WinRAR 目录遍历漏洞(CVE-2025-6218)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486063&idx=2&sn=a3d57d6619d987a8d64a725f1bc82373": "CVE-2025-6218｜WinRAR目录遍历远程代码执行漏洞"
 }
