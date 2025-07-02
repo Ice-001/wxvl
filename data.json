@@ -15715,5 +15715,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247583407&idx=2&sn=35c3e8e7c3d51d50a86d12456ac1b819": "安全动态回顾|工信部对57款存在侵害用户权益行为的APP（SDK）进行通报 Brother打印机在689款型号中存在漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493546&idx=3&sn=d08eea3ea0118239a217d343dc31fd19": "漏洞预警 | 用友NC SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458596324&idx=2&sn=9aceb4a1f80e7cd75b8c79e45465f11a": "Linux Sudo 曝重大漏洞可提权至root并绕过主机限制，速更新！",
-    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490334&idx=1&sn=40afc24425c4f95b1e789f6645fa2295": "【高危漏洞预警】 Akamai CloudTest soap XXE漏洞（CVE-2025-49493）"
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490334&idx=1&sn=40afc24425c4f95b1e789f6645fa2295": "【高危漏洞预警】 Akamai CloudTest soap XXE漏洞（CVE-2025-49493）",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523414&idx=1&sn=af483917f833027e64a5dc3b05e6f56a": "谷歌紧急修复已遭利用的 Chrome 0day漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324079&idx=3&sn=23330a41d753210c404f022f9a91115e": "谷歌紧急修复已被利用的Chrome高危零日漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531505&idx=1&sn=ef6e5a16657ad393b2f33a8fd5a20296": "如何在 Django 应用程序中链接目录遍历和 CSV 解析器滥用以进行 RCE"
 }
