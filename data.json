@@ -15718,5 +15718,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490334&idx=1&sn=40afc24425c4f95b1e789f6645fa2295": "【高危漏洞预警】 Akamai CloudTest soap XXE漏洞（CVE-2025-49493）",
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523414&idx=1&sn=af483917f833027e64a5dc3b05e6f56a": "谷歌紧急修复已遭利用的 Chrome 0day漏洞",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324079&idx=3&sn=23330a41d753210c404f022f9a91115e": "谷歌紧急修复已被利用的Chrome高危零日漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531505&idx=1&sn=ef6e5a16657ad393b2f33a8fd5a20296": "如何在 Django 应用程序中链接目录遍历和 CSV 解析器滥用以进行 RCE"
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531505&idx=1&sn=ef6e5a16657ad393b2f33a8fd5a20296": "如何在 Django 应用程序中链接目录遍历和 CSV 解析器滥用以进行 RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499989&idx=1&sn=8f5d60702d8764a873e0a41789698fef": ".NET 介绍一种隐蔽的命令执行方式，通过 LINQ 投影执行动态加载",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523414&idx=2&sn=35dbec1ac12ce977cb52bd37b9d9860a": "MongoDB 服务器预认证漏洞可用于触发 DoS 条件",
+    "https://mp.weixin.qq.com/s?__biz=MzU4NDY3MTk2NQ==&mid=2247491736&idx=1&sn=c058b634e9bf320f603b91d1de78ff2a": "Chrome在野CVE-2025-6554漏洞poc公布",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494141&idx=1&sn=7bf65d26e4d8ee07d1bb79a849c00f27": "【已复现】Linux sudo 本地提权漏洞(CVE-2025-32462、CVE-2025-32463)",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651207230&idx=1&sn=be1b2877b624966bf5393397469e9f94": "悟空Agent实战：LLaMA-Factory高危0day漏洞挖掘与修复",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNDYwMDcyNQ==&mid=2247489022&idx=1&sn=69b96ddf5e6b92e1c401efa186d2f1f4": "【必查漏洞】Sudo Host_Alias 权限提升漏洞 (CVE-2025-32462) 检测手册",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNDYwMDcyNQ==&mid=2247489022&idx=2&sn=53623527ace09a34e233e4c555c6c6f8": "【必查漏洞】Sudo chroot 权限提升漏洞(CVE-2025-32463)检测手册"
 }
