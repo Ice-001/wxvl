@@ -15759,5 +15759,7 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0MjU5NTY2MQ==&mid=2247484404&idx=1&sn=210b67f6dbbe6f2f49edb18417cdb516": "【厂商不承认的漏洞】某设备接口未授权实现任意密码修改",
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458596501&idx=3&sn=8d167e29f2f70304d76cb865431e2fad": "13岁少年Dylan发现 Teams 漏洞，微软为其修改赏金计划",
     "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503443&idx=1&sn=ac58ea5dade899a4310c5f8e8bdcaf76": "【成功复现】WinRAR目录遍历漏洞(CVE-2025-6218)",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501261&idx=2&sn=b4d3e1f7d10b28534202f323f0507ccc": "【漏洞通告】IBM WebSphere 远程代码执行漏洞(CVE-2025-36038)"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501261&idx=2&sn=b4d3e1f7d10b28534202f323f0507ccc": "【漏洞通告】IBM WebSphere 远程代码执行漏洞(CVE-2025-36038)",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523425&idx=1&sn=d86d65a64846ff68a79a294116423c60": "CISA 提醒注意 Microsens 中的多个严重漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261384&idx=1&sn=4f91cc15ac8ab344b7d926dd5c872297": "【星球专享】手把手复现 Apache Airflow 漏洞指南-(CVE-2022–40604)"
 }
