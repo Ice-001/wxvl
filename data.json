@@ -15763,5 +15763,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523425&idx=1&sn=d86d65a64846ff68a79a294116423c60": "CISA 提醒注意 Microsens 中的多个严重漏洞",
     "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261384&idx=1&sn=4f91cc15ac8ab344b7d926dd5c872297": "【星球专享】手把手复现 Apache Airflow 漏洞指南-(CVE-2022–40604)",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492002&idx=1&sn=b6880866102aa41c8fbb56a6d73544e8": "Optilink upgrade.php 命令执行漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247492743&idx=1&sn=6d15d49d30e47caad5876dd8ce93f3cb": "Google紧急修复Chrome零日漏洞（CVE-2025-6554）"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247492743&idx=1&sn=6d15d49d30e47caad5876dd8ce93f3cb": "Google紧急修复Chrome零日漏洞（CVE-2025-6554）",
+    "https://mp.weixin.qq.com/s?__biz=MzAwNDE4Mzc1NA==&mid=2650850595&idx=1&sn=372e11108972c7b8fce6574e03d9b7fd": "青藤RASP入选CCIA首批 “网安三新”，攻防演练中抓0day神器再获官方认证",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523440&idx=2&sn=85a84a9138ea24b09e9ea0bcb9efe061": "速修复！Grafana 修复中存在四个严重的RCE漏洞"
 }
