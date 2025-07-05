@@ -15778,5 +15778,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484499&idx=1&sn=8990d10a757c9fdb5cfde304a9632624": "【在野利用】Chrome V8 引擎类型混淆漏洞(CVE-2025-6554)",
     "https://mp.weixin.qq.com/s?__biz=Mzg5OTYxMjk0Mw==&mid=2247490802&idx=1&sn=102c4f427b3434196bc45fac750ee05e": "插件前台任意文件读取漏洞复现与分析 (CVE-2025-2294)",
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523450&idx=1&sn=fb41027f31142b3eef6b9494edc4b71e": "微软 Edge 修复两个高危RCE漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664245177&idx=2&sn=6683aa774f604f52b1f4752b54de0147": "前沿 | 基于人工智能的漏洞挖掘应用实践探讨"
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664245177&idx=2&sn=6683aa774f604f52b1f4752b54de0147": "前沿 | 基于人工智能的漏洞挖掘应用实践探讨",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMDQwMjg5NA==&mid=2247507548&idx=1&sn=85978c0c88e548f7680254b6e0af985b": "【一周安全资讯0705】三部门发文：进一步加强电子病历信息使用管理；谷歌紧急修复已被利用的Chrome高危零日漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk1Nzc0MzY3NA==&mid=2247487449&idx=1&sn=58605f2922c9db6af4fc15fc9bc1482d": "提权辅助工具：Windows--exploit-suggester.py安装及使用",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTgwNzg5MQ==&mid=2247487032&idx=1&sn=8c0c45fe689a80354063134fa9687490": "某米路由器命令执行漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=MzI1MDA1MjcxMw==&mid=2649908515&idx=1&sn=9dd45778d480828d43ccc3465239a217": "如何调试Microsoft Defender for Endpoint (MDE) 发现 CVE 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA3NDQ0MzkzMA==&mid=2651733657&idx=1&sn=19e1e9619992414367d2cc34dba5c3dc": "Google Chrome V8类型混淆漏洞来袭，启明星辰提供解决方案",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324483&idx=3&sn=1ef1f6e0a656c9697273135ef8bdf2d5": "新型僵尸网络利用四信工业路由器漏洞发动DDoS攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247641383&idx=1&sn=3b2c19de6851d8fb8cfd37d6abda9929": "在看 | 周报：南阳某机械有限公司网站遭黑客攻击；742款打印机被曝存在安全漏洞；虚假WPS安装程序暗藏远控木马"
 }
