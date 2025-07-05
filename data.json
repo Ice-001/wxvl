@@ -15771,5 +15771,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531579&idx=1&sn=8aeb22f983426b00e76b8eb31fada17a": "我如何通过 NGINX Off-By-Slash 配置错误获得远程代码执行",
     "https://mp.weixin.qq.com/s?__biz=Mzk1NzE0ODUyOA==&mid=2247492291&idx=1&sn=016611bd54e6385d9c7ac784ba2e1355": "【复现】Google Chrome浏览器在野利用漏洞（CVE-2025-6554）",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NDYwMDA1NA==&mid=2247545079&idx=2&sn=65abb29b5e5223f43305537aabeaa842": "2025攻防演练必修高危漏洞集合",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0MjU5NTY2MQ==&mid=2247484397&idx=1&sn=02ae9d7fb38d1998b6e39568727b16de": "【0DAY漏洞复现】某款网络设备存在命令执行漏洞"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjU5NTY2MQ==&mid=2247484397&idx=1&sn=02ae9d7fb38d1998b6e39568727b16de": "【0DAY漏洞复现】某款网络设备存在命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU2MjY1ODEwMA==&mid=2247492212&idx=1&sn=d5b473f62fc06b60c4bf8a71d3bd2de1": "JAVA常见漏洞复现",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514637&idx=1&sn=fa07c6d1743943a472d11181a4524966": "微软云身份曝严重漏洞：对低级别用户过度授权，导致客户VPN密钥泄露"
 }
