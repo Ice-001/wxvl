@@ -15773,5 +15773,8 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2NDYwMDA1NA==&mid=2247545079&idx=2&sn=65abb29b5e5223f43305537aabeaa842": "2025攻防演练必修高危漏洞集合",
     "https://mp.weixin.qq.com/s?__biz=Mzk0MjU5NTY2MQ==&mid=2247484397&idx=1&sn=02ae9d7fb38d1998b6e39568727b16de": "【0DAY漏洞复现】某款网络设备存在命令执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzU2MjY1ODEwMA==&mid=2247492212&idx=1&sn=d5b473f62fc06b60c4bf8a71d3bd2de1": "JAVA常见漏洞复现",
-    "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514637&idx=1&sn=fa07c6d1743943a472d11181a4524966": "微软云身份曝严重漏洞：对低级别用户过度授权，导致客户VPN密钥泄露"
+    "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514637&idx=1&sn=fa07c6d1743943a472d11181a4524966": "微软云身份曝严重漏洞：对低级别用户过度授权，导致客户VPN密钥泄露",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523450&idx=2&sn=6fb767fa5ebe3a22a7b0a961be3c6df2": "CISA提醒注意已遭利用的两个 TeleMessage 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484499&idx=1&sn=8990d10a757c9fdb5cfde304a9632624": "【在野利用】Chrome V8 引擎类型混淆漏洞(CVE-2025-6554)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5OTYxMjk0Mw==&mid=2247490802&idx=1&sn=102c4f427b3434196bc45fac750ee05e": "插件前台任意文件读取漏洞复现与分析 (CVE-2025-2294)"
 }
