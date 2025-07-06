@@ -15795,5 +15795,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486277&idx=2&sn=888640822418c3ba152b62a62e185814": "742款打印机存在不可修复的远程代码执行漏洞，涉兄弟、富士、理光等品牌",
     "https://mp.weixin.qq.com/s?__biz=MzI5NDg0ODkwMQ==&mid=2247486452&idx=1&sn=4a801e396583f602f9a3802e920392a6": "RCE 漏洞(上)：远程代码和命令执行的致命威胁",
     "https://mp.weixin.qq.com/s?__biz=MzkyODY3NjkyNQ==&mid=2247485146&idx=1&sn=af8e2991ba6ad6d2a3648681ae65aca0": "Gogs最新RCE分析与利用详情 全网首发",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324483&idx=2&sn=7b7840a855c25cff444583b7d7681c6f": "FreeBuf周报 | Linux高危Sudo漏洞可提权至root并绕过限制；Lucee应用服务器曝高危漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324483&idx=2&sn=7b7840a855c25cff444583b7d7681c6f": "FreeBuf周报 | Linux高危Sudo漏洞可提权至root并绕过限制；Lucee应用服务器曝高危漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247550744&idx=1&sn=2af56c38b8479339ec6a8b2406b7c962": "某前后端分离BI低代码通用漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531649&idx=2&sn=e7df67683a084053ceec541815be401e": "CVE-2025-53367：DjVuLibre 中可利用的越界写入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489900&idx=2&sn=979cd2b43277c825490a986e33c78693": "逆天提权漏洞，CVE-2025-32463，嘎嘎好使，速来复现"
 }
