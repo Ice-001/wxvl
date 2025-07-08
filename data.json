@@ -15830,5 +15830,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493642&idx=2&sn=048d64bc02eca684e34c739477aeaf19": "漏洞预警 | 泛微E-Cology登录绕过漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494156&idx=1&sn=c21b3f8c0e2a9a0d88ea9e8b296e7c3a": "【已复现】Citrix NetScaler ADC和NetScaler Gateway越界读漏洞(CVE-2025-5777)",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324554&idx=3&sn=6d8a6aafd07ad3be4a5c0f54d00e56f5": "Web服务器面临认证前RCE与管理员接管风险，PoC已公开",
-    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496107&idx=2&sn=71bebd5f56bafd09a7b0d3e2b1d3c056": "上周关注度较高的产品安全漏洞(20250630-20250706)"
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496107&idx=2&sn=71bebd5f56bafd09a7b0d3e2b1d3c056": "上周关注度较高的产品安全漏洞(20250630-20250706)",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247521663&idx=1&sn=1a7aa58916d280391fd2526ffe2c169f": "护网情报 ｜汉王e脸通综合管理平台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493642&idx=3&sn=2709c18c5a5c8ca60abe331da6813af4": "漏洞预警 | 汉王e脸通智慧园区管理平台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247500929&idx=1&sn=dee2bdaa182554616ea85ceef4775672": "汉王e脸通综合管理平台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491714&idx=1&sn=2703eddc7e90fc058235bae0286ecc9b": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年07月07日"
 }
