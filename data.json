@@ -15841,5 +15841,12 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0MjU5NTY2MQ==&mid=2247484416&idx=1&sn=d4ca2b0c863b7ac03f1c479a4455648d": "【漏洞复现】锐捷 RG-EW120路由器存在密码重置漏洞",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324554&idx=1&sn=bdeb8779451111167a89a91cea7654df": "Redis被曝三大严重安全漏洞，PoC代码已公开",
     "https://mp.weixin.qq.com/s?__biz=Mzk0MjU5NTY2MQ==&mid=2247484421&idx=1&sn=5c3724f0c2d78efe44c29769c0a54860": "【漏洞复现】南昊网上阅卷系统∕exam∕monitor∕index.jsp接口未授权访问",
-    "https://mp.weixin.qq.com/s?__biz=MzI1NTM4ODIxMw==&mid=2247501391&idx=1&sn=d7d59fa8789b9b499680ba16642dbbb0": "漏洞速递｜Redis CVE-2025-32023 RCE漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzI1NTM4ODIxMw==&mid=2247501391&idx=1&sn=d7d59fa8789b9b499680ba16642dbbb0": "漏洞速递｜Redis CVE-2025-32023 RCE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247547053&idx=1&sn=ab425df27b630dfa1c1d59759bf1ad37": "【更！】25HVV热点攻击漏洞含0day，各单位自查...",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458596945&idx=3&sn=ce5a42d0da3011db31e51a6b4c67cb24": "Redis曝高危漏洞，认证客户端可致服务中断",
+    "https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712402&idx=1&sn=c474ae778a24fb49e2dfe5be1573a1ac": "Redis hyperloglog 远程代码执行漏洞(CVE-2025-32023)复现研究",
+    "https://mp.weixin.qq.com/s?__biz=MzA5OTA0MTU4Mg==&mid=2247486239&idx=1&sn=8e885ab19cba7e27c6d24a33dcb6de17": "某堡垒机 set_port 远程命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487548&idx=1&sn=7b0fb2f3107df101675679504bbb0c10": "PHP 漏洞 CVE-2025-6491（SOAP DoS）",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247487489&idx=1&sn=3a6063b4e6c95891b1a17fb5e1ff0bc1": "众测实战 | 一次正负叠加导致的支付漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484942&idx=1&sn=baf5d858e68af91f045b6c4cc52c65b5": "Linux单服务器漏洞处置SOP框架——最小化应用系统运行环境安全风险"
 }
