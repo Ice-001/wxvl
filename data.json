@@ -15864,5 +15864,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490389&idx=1&sn=a4b381c2318fb8f2925676474ebc9324": "【高危漏洞预警】Redis hyperloglog远程代码执行漏洞CVE-2025-32023",
     "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501277&idx=3&sn=3c9b51451f5763c003d384a08f8ec50e": "【漏洞通告】Redis 未认证连接导致拒绝服务漏洞 (CVE-2025-48367)",
     "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900881&idx=1&sn=8830ee98683a574b4f6ba828fc40e84e": "CVSS 10.0！思科犯下“低级但致命”的错误，统一通信管理器曝出硬编码root密码漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247484898&idx=1&sn=8398d7bfb2fa31deb03c63d073a09293": "【漏洞复现】汉王EFaceGo upload.do 任意文件上传漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247484898&idx=1&sn=8398d7bfb2fa31deb03c63d073a09293": "【漏洞复现】汉王EFaceGo upload.do 任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490456&idx=1&sn=d62d1062414385b7f829b9ad9c765da1": "【7∕8特辑】一线最新漏洞情报来袭",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516963&idx=1&sn=ee00aff35e8bf7a7f1ded9b69d562f9e": "Struts2全版本漏洞检测工具 -- Struts2VulsScanTools（7月5日更新）",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493665&idx=1&sn=48ab394f77cef01caa709b6988d5a145": "漏洞预警 | PHPStudy后门漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501285&idx=3&sn=b6133575e41cd87ecbd05db8fb74fff0": "【漏洞通告】微软7月多个安全漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248195&idx=1&sn=0e8285716274d1f15c4ca606f908a2e9": "遭受惨烈事故后，这家公司将投入超36亿元加强数据安全建设 | Linux启动漏洞可绕过现代Linux系统的安全启动保护",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795661&idx=3&sn=2488e7df2447ab0208b59164f15dd06a": "微软 7 月补丁日修复 130 个漏洞，其中包括 SQL Server 0day"
 }
