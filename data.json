@@ -15859,5 +15859,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501277&idx=2&sn=4281534d703a4bbc63efa979f6383778": "【漏洞通告】Redis hyperloglog命令越界写入导致RCE漏洞 (CVE-2025-32023)",
     "https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652252169&idx=1&sn=47e985b033077e98cd528abb15e1a47f": "国际刑事法院遭零日漏洞网络攻击，敏感数据岌岌可危",
     "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664245296&idx=1&sn=9a5b71c761dc2b049f6fa30dde2ff1cc": "专题·人工智能安全 | 大型推理模型的安全性：挑战、漏洞与未来",
-    "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247526738&idx=1&sn=198681d077860153b253b1e29ce8bede": "Redis hyperloglog 远程代码执行漏洞(CVE-2025-32023)"
+    "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247526738&idx=1&sn=198681d077860153b253b1e29ce8bede": "Redis hyperloglog 远程代码执行漏洞(CVE-2025-32023)",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494163&idx=1&sn=ef3a94f06cd0f1e50ff400b0fd0c78ba": "【已复现】Redis HyperLogLog远程代码执行漏洞(CVE-2025-32023)",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490389&idx=1&sn=a4b381c2318fb8f2925676474ebc9324": "【高危漏洞预警】Redis hyperloglog远程代码执行漏洞CVE-2025-32023",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501277&idx=3&sn=3c9b51451f5763c003d384a08f8ec50e": "【漏洞通告】Redis 未认证连接导致拒绝服务漏洞 (CVE-2025-48367)",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900881&idx=1&sn=8830ee98683a574b4f6ba828fc40e84e": "CVSS 10.0！思科犯下“低级但致命”的错误，统一通信管理器曝出硬编码root密码漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247484898&idx=1&sn=8398d7bfb2fa31deb03c63d073a09293": "【漏洞复现】汉王EFaceGo upload.do 任意文件上传漏洞"
 }
