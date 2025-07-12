@@ -15948,5 +15948,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxMDQyMTIzMA==&mid=2247484917&idx=1&sn=af0cf86fe3943f11fba7eb4847c0d2da": "【复现】契约锁文件写入致远程代码执行漏洞风险通告",
     "https://mp.weixin.qq.com/s?__biz=Mzg4Nzk3MTg3MA==&mid=2247488451&idx=1&sn=a4ca5878e9febbc5fb079a6dbd862c55": "从Top20开源组件漏洞浅谈开源安全治理困境",
     "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247547158&idx=2&sn=6590b74b0b9a26bac77f815dfde586e6": "半导体巨头AMD新型漏洞影响多款CPU，计时攻击可导致数据泄露",
-    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523555&idx=2&sn=04a84283c9d2100a95736c652525dcd8": "开源项目mcp-remote 中存在严重漏洞可导致RCE"
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523555&idx=2&sn=04a84283c9d2100a95736c652525dcd8": "开源项目mcp-remote 中存在严重漏洞可导致RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649788781&idx=1&sn=148a363ff5ef9b1e0e3fddf8321a100e": "数十亿手机可被监听，eSIM漏洞牵动全球通信生态",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900919&idx=1&sn=1f4322c0e6cd6bc7effa9d36a0a183f2": "澳航600万用户数据泄露背后的“供应链攻击”与“人类漏洞”",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247490169&idx=1&sn=1c03eca279db12aecea40a2a46eafd9a": "某新版诈骗双端APP通讯录存在前台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247493023&idx=1&sn=33bd188ed20d88bbe2bf0b5dc2b834dd": "某211高校从一个文档到十八万条sfz泄露和命令执行",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492110&idx=1&sn=5c85ce32f439145754b97e4e8aaafbc6": "锐捷EWEB路由器 ipam.php 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247547158&idx=1&sn=3cf79ed603597648e4ebc012f1dd387d": "【暴】麦当劳招聘平台 | 安全漏洞致 6400 万份求职申请信息暴露",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492119&idx=1&sn=5929fda702d2ffc81cd8d0ceb6d517f5": "金蝶云星空 BusinessDataService.BatchLoad.common.kdsvc 远程代码执行漏洞"
 }
