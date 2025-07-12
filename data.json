@@ -15947,5 +15947,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523555&idx=1&sn=caf9ee84b43c4fc81ee51bfbe2c7d11d": "蓝牙漏洞PerfektBlue 可用于实现RCE，影响多家汽车厂商",
     "https://mp.weixin.qq.com/s?__biz=MzkxMDQyMTIzMA==&mid=2247484917&idx=1&sn=af0cf86fe3943f11fba7eb4847c0d2da": "【复现】契约锁文件写入致远程代码执行漏洞风险通告",
     "https://mp.weixin.qq.com/s?__biz=Mzg4Nzk3MTg3MA==&mid=2247488451&idx=1&sn=a4ca5878e9febbc5fb079a6dbd862c55": "从Top20开源组件漏洞浅谈开源安全治理困境",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247547158&idx=2&sn=6590b74b0b9a26bac77f815dfde586e6": "半导体巨头AMD新型漏洞影响多款CPU，计时攻击可导致数据泄露"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247547158&idx=2&sn=6590b74b0b9a26bac77f815dfde586e6": "半导体巨头AMD新型漏洞影响多款CPU，计时攻击可导致数据泄露",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523555&idx=2&sn=04a84283c9d2100a95736c652525dcd8": "开源项目mcp-remote 中存在严重漏洞可导致RCE"
 }
