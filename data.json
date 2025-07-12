@@ -15958,5 +15958,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492119&idx=1&sn=5929fda702d2ffc81cd8d0ceb6d517f5": "金蝶云星空 BusinessDataService.BatchLoad.common.kdsvc 远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503602&idx=2&sn=e1e4339c66bfeef7053ebf82a7b737eb": "【已复现】契约锁电子签章系统 pdfverifier 远程代码执行漏洞(QVD-2025-27432)安全风险通告",
     "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247484920&idx=1&sn=adfe24d7cee65a50ea24cc4d8f7be624": "【漏洞复现】契约锁电子签章系统 pdfverifier 远程代码执行漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486522&idx=1&sn=a01569e808d3475b13fe5f2b04268a76": "Struts2VulsScanTools【Struts2全版本漏洞检测工具】"
+    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486522&idx=1&sn=a01569e808d3475b13fe5f2b04268a76": "Struts2VulsScanTools【Struts2全版本漏洞检测工具】",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MTY3NzUwMQ==&mid=2247490628&idx=1&sn=08154901b772cc417b47d0eb49d166dd": "2025-7-12日漏洞情报汇总",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247486752&idx=1&sn=3825e538392c96bc757dfef7a363f795": "某新版诈骗双端APP通讯录存在前台SQL注入漏洞"
 }
