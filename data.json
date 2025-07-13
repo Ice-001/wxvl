@@ -15960,5 +15960,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247484920&idx=1&sn=adfe24d7cee65a50ea24cc4d8f7be624": "【漏洞复现】契约锁电子签章系统 pdfverifier 远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486522&idx=1&sn=a01569e808d3475b13fe5f2b04268a76": "Struts2VulsScanTools【Struts2全版本漏洞检测工具】",
     "https://mp.weixin.qq.com/s?__biz=Mzg3MTY3NzUwMQ==&mid=2247490628&idx=1&sn=08154901b772cc417b47d0eb49d166dd": "2025-7-12日漏洞情报汇总",
-    "https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247486752&idx=1&sn=3825e538392c96bc757dfef7a363f795": "某新版诈骗双端APP通讯录存在前台SQL注入漏洞"
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247486752&idx=1&sn=3825e538392c96bc757dfef7a363f795": "某新版诈骗双端APP通讯录存在前台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247500866&idx=1&sn=3e6caa7a94d92763e65f4895c1516b20": "Apache HTTP Server 2.4.64发布，修复8个漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIxOTM2MDYwNg==&mid=2247515236&idx=1&sn=fc3c5c6dbf3b2cbc32405070170609d6": "2025某新版诈骗双端APP通讯录前台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324804&idx=3&sn=859f6647543d5b23c0064c147c9cec34": "FreeBuf周报 | Redis被曝三大严重安全漏洞；AMD新型漏洞影响多款CPU",
+    "https://mp.weixin.qq.com/s?__biz=MzIxNTIzNTExMQ==&mid=2247491912&idx=1&sn=17f6f3f0b90b29e022a81ea8c8b28cdb": "如何在日常渗透中实现通杀漏洞挖掘"
 }
