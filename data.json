@@ -15979,5 +15979,8 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487565&idx=1&sn=1f8f19fa59f52f8098ffe19d836e1b57": "JS扫描与漏洞挖掘利器推荐—Rotor Goddess",
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486079&idx=2&sn=b06c26e63d5694cb6383efb350fb9f34": "【漏洞复现】CVE-2025-6218｜WinRAR目录遍历远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492135&idx=1&sn=7bcedb196331e9addb1b70f3be0ea04e": "金蝶云星空 InOutDataService.GetImportOutData.common.kdsvc 远程代码执行漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzg5NzUyNTI1Nw==&mid=2247497439&idx=1&sn=346a6cf1bf2e154c590fd2471a245e0c": "Struts2全版本漏洞检测工具更新！V19.68"
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NzUyNTI1Nw==&mid=2247497439&idx=1&sn=346a6cf1bf2e154c590fd2471a245e0c": "Struts2全版本漏洞检测工具更新！V19.68",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMDMyNzk5NQ==&mid=2247484884&idx=1&sn=4db22793b7eb8e943f0dbcbd42102bd1": "【已复现】mcp-remote 远程代码执行漏洞(CVE-2025-6514)",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247500966&idx=1&sn=88491b4e0826eff5e55d75c27ea04ec3": "微信出了XSS漏洞？？？点击自动发送消息",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247489423&idx=1&sn=f3712506893025290c1cd8f1459d5d32": "Win32k 的漏洞利用 - CVE-2023-29336 详细分析"
 }
