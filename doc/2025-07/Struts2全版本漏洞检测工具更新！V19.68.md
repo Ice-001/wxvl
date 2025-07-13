@@ -1,13 +1,31 @@
 #  Struts2全版本漏洞检测工具更新！V19.68  
- 黑白之道   2025-07-12 14:50  
+abc123info  无影安全实验室   2025-07-13 10:36  
   
-![](https://mmbiz.qpic.cn/mmbiz_gif/3xxicXNlTXLicwgPqvK8QgwnCr09iaSllrsXJLMkThiaHibEntZKkJiaicEd4ibWQxyn3gtAWbyGqtHVb0qqsHFC9jW3oQ/640?wx_fmt=gif "")  
+免责声明：  
+本篇文章仅用于技术交流，  
+请勿利用文章内的相关技术从事非法测试  
+，  
+由于传播、利用本公众号无影安全  
+实验室所提供的信息而造成的任何直接或者间接的后果及损失，均由使用者本人负责，公众号无影安全实验室及作者不为此承担任何责任，一旦造成后果请自行承担！  
+如有侵权烦请告知，我们会立即删除并致歉。谢谢！  
   
-## 工具介绍  
+  
+  
+朋友们现在只对常读和星标的公众号才展示大图推送，建议大家把"**无影安全实验室**  
+"设为星标，这样更新文章也能第一时间推送！  
+  
+![](https://mmbiz.qpic.cn/mmbiz_gif/3GHDOauYyUGbiaHXGx1ib5UxkKzSNtpMzY5tbbGdibG7icBSxlH783x1YTF0icAv8MWrmanB4u5qjyKfmYo1dDf7YbA/640?&wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1 "")  
+  
+  
+安全工具  
+  
+  
+  
+## 0x01 工具介绍  
   
 Struts2全版本漏洞检测工具 by:ABC_123  
   
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/icZ1W9s2Jp2V4qLgKdCT8wyMrZtPqLexS0N0zl5icLWdK9jYOaH4QFjz1oJCGhMMMvsmiasRcIibJn6vLL5Lz4MJ2g/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1 "")  
+![a111](https://mmbiz.qpic.cn/mmbiz_jpg/awCdqJkJFETpDlvCzAEVtCaea0VDlFTsEGq4n95qhda72jb2u2ATzrcbtd94Z7c4rCLUSa7RN3sW7OrF2EKf5w/640?wx_fmt=jpeg&from=appmsg "")  
   
 1、点击“检测漏洞”，会自动检测该URL是否存在S2-001、S2-005、S2-009、S2-013、S2-016、S2-019、S2-020/021、S2-032、S2-037、DevMode、S2-045/046、S2-052、S2-048、S2-053、S2-057、S2-061、S2相关log4j2十余种漏洞。  
   
@@ -24,7 +42,7 @@ Struts2全版本漏洞检测工具 by:ABC_123
 7、部分漏洞测试支持UTF-8、GB2312、GBK编码转换。  
   
 8、每次操作都启用一个线程，防止界面卡死。  
-## 更新  
+## 0x02 更新  
   
 2025.07.05 新增检测Struts2框架下Log4j2漏洞的新语句。  
   
@@ -37,23 +55,18 @@ Struts2全版本漏洞检测工具 by:ABC_123
 2025.07.02 新增S2-017漏洞新的检测语句，进一步提升漏洞检测的准确度。  
   
 2025.07.02 新增S2-019漏洞新的检测语句，进一步提升漏洞检测的准确度。  
+## 0x03 工具下载  
   
-## 工具获取  
+**点****击关注**  
+**下方名片****进入公众号**  
   
-  
-  
-https://github.com/abc123info/Struts2VulsScanTools/releases/tag/v19.68  
-  
-  
-> **文章来源：夜组安全**  
+**回复关键字【250713****】获取**  
+**下载链接**  
   
   
   
-黑白之道发布、转载的文章中所涉及的技术、思路和工具仅供以安全为目的的学习交流使用，任何人不得将其用于非法用途及盈利等目的，否则后果自行承担！  
+最后推荐一下内部  
+小  
+密圈，干货满满，物超所值，**内部圈子每增加100人，价格将上涨20元，越早进越优惠！！！**  
   
-如侵权请私聊我们删文  
-  
-  
-**END**  
-  
-  
+****  
