@@ -15998,5 +15998,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247583802&idx=1&sn=c914497a8cef5d31d229e7ce9ad87e00": "蓝牙漏洞可能会让黑客通过麦克风窃取信息",
     "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247483889&idx=1&sn=49db58752bf20b6e1a322dc5c9a9e614": "东胜物流软件GetDataListCA接口存在SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486533&idx=1&sn=12d91dccb932998fec348e17760ef684": "工作中遇到的几个常见场景下的xss漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649788788&idx=1&sn=c7fa538499e5b03daa0e74f470f92434": "3.5亿辆汽车、10亿设备暴露于一键蓝牙RCE漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649788788&idx=1&sn=c7fa538499e5b03daa0e74f470f92434": "3.5亿辆汽车、10亿设备暴露于一键蓝牙RCE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496126&idx=1&sn=4bbd11a17c961421e365773e0d458184": "CNVD漏洞周报2025年第26期",
+    "https://mp.weixin.qq.com/s?__biz=Mzk2NDkyMjUxMA==&mid=2247483689&idx=1&sn=0aa653b5743553d1825b5947385aed22": "一个面板的RCE方式",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491762&idx=1&sn=29ab889867f7d639faaa54a3dfc2ef2e": "清源SCA社区版｜每一次漏洞判定皆有代码为证",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324846&idx=4&sn=f1d0bf41e03a0e999487db8bcdacbf1a": "600余个Laravel应用因GitHub泄露APP_KEY面临远程代码执行风险",
+    "https://mp.weixin.qq.com/s?__biz=Mzk3NTIyOTA0OQ==&mid=2247485223&idx=1&sn=7cadef856d0360ed2983ea9bd473a955": "Solrs搜索&Shrio鉴权&Log4j日志&CVE历史漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490431&idx=1&sn=1413a05f807dd28e1228256420189b24": "【高危漏洞预警】Apache Jackrabbit XXE漏洞CVE-2025-53689"
 }
