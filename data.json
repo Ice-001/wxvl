@@ -15982,5 +15982,10 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg5NzUyNTI1Nw==&mid=2247497439&idx=1&sn=346a6cf1bf2e154c590fd2471a245e0c": "Struts2全版本漏洞检测工具更新！V19.68",
     "https://mp.weixin.qq.com/s?__biz=MzkzMDMyNzk5NQ==&mid=2247484884&idx=1&sn=4db22793b7eb8e943f0dbcbd42102bd1": "【已复现】mcp-remote 远程代码执行漏洞(CVE-2025-6514)",
     "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247500966&idx=1&sn=88491b4e0826eff5e55d75c27ea04ec3": "微信出了XSS漏洞？？？点击自动发送消息",
-    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247489423&idx=1&sn=f3712506893025290c1cd8f1459d5d32": "Win32k 的漏洞利用 - CVE-2023-29336 详细分析"
+    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247489423&idx=1&sn=f3712506893025290c1cd8f1459d5d32": "Win32k 的漏洞利用 - CVE-2023-29336 详细分析",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493250&idx=1&sn=cd317dbe8c78874a262dce46efcc5cc3": "WEB安全盲点 挖洞中的敏感文件泄漏漏洞与利用手法|挖洞技巧",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247487511&idx=2&sn=8d2f6557da638b43fa93a032bbb453a8": "众测实战 | 一次正负叠加导致的支付漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493135&idx=1&sn=306bed2b9378881be53a5e8817b5691b": "Forminator 插件漏洞使 WordPress 网站面临接管攻击",
+    "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247483898&idx=1&sn=479ca01aab6c21e9d19081497f01a809": "孚盟云 Getlcon.aspx 接口存在SQL 注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324823&idx=1&sn=8d5de62308fd7ccffed1006c49b4d88f": "研究人员利用提示注入漏洞绕过Meta的Llama防火墙防护"
 }
