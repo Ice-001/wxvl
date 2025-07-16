@@ -16042,5 +16042,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523576&idx=2&sn=cae33dc0a4154ffe056c01f3975eb200": "ImageMagick存在栈缓冲溢出漏洞，可导致RCE",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070668&idx=2&sn=ce0182339a28bea5592baa50de5cc5e7": "【安全圈】起亚车机系统曝安全漏洞！黑客竟能远程操控",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531762&idx=1&sn=a08fcb7bff9afed48f07cc4dd51fa8df": "漏洞爆料！微软SharePoint又被高手秒杀，Pwn2Own单招就破防！",
-    "https://mp.weixin.qq.com/s?__biz=Mzg5NzUyNTI1Nw==&mid=2247497447&idx=1&sn=bcc588c3c8ac5d3f6fbbcef7b0a88061": "网络摄像头漏洞扫描工具 | Ingram"
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NzUyNTI1Nw==&mid=2247497447&idx=1&sn=bcc588c3c8ac5d3f6fbbcef7b0a88061": "网络摄像头漏洞扫描工具 | Ingram",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497892&idx=1&sn=a1df282edd7c66180e2301060336e771": "如何使用 Frida 漏洞利用加密移动 API 中的 IDOR",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324943&idx=2&sn=f92e83da511bb4652e239c42897f2491": "一键获取上万份资料和漏洞情报的资源情报网站"
 }
