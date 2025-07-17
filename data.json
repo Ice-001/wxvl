@@ -16062,5 +16062,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490163&idx=1&sn=b3f45daec1576c19d9cd94b0751a9bda": "记一次有趣的逻辑漏洞挖掘",
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494290&idx=2&sn=a02c958b20179cf6beb420d4491d6a11": "【风险提示】VMware多个高危漏洞安全风险通告",
     "https://mp.weixin.qq.com/s?__biz=Mzk0OTUwNTU5Nw==&mid=2247489632&idx=1&sn=cfd0fe4074ceae03eff8238fbf7b26ce": "【相关分享】关于网传HVV中的WPS漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494290&idx=1&sn=3a91fb3c0b5f85fce1d7dbffc4e55ff9": "【已复现】存在20年的Windows虚拟硬盘权限提升漏洞(CVE-2025-49689)"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494290&idx=1&sn=3a91fb3c0b5f85fce1d7dbffc4e55ff9": "【已复现】存在20年的Windows虚拟硬盘权限提升漏洞(CVE-2025-49689)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzkwMTYyOQ==&mid=2247489680&idx=1&sn=37eee459a55b76471119db69d6b93f58": "【转子女神更新与0day挖掘】浅谈用转子挖掘0day的思路式",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzYzMTE5OA==&mid=2247484350&idx=1&sn=aa3db900309caf2a179befd3484960f2": "GeoServer存在默认口令admin:geoserver 附POC",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4Nzk3MTg3MA==&mid=2247488477&idx=1&sn=bfde8c4971f0b8b052a8eb97550e957a": "Hutool路径遍历漏洞（CVE-2018-17297）分析报告",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494304&idx=1&sn=24b77ad7adcfcdc3dbeddc75f3a8ce32": "独家 | 360联合清华大学发布全球首份智能体安全报告，曝光20+漏洞！",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488693&idx=1&sn=b67691800d32ebf2dc55f5bc0558137e": "汉王e脸通综合管理平台存在SQL注入漏洞 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458597312&idx=3&sn=2ffef8173d9075cd1afc387bf35860d1": "谷歌 AI Big Sleep 立大功！成功阻止 SQLite 零日漏洞攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzU2MTc4NTEyNw==&mid=2247487071&idx=1&sn=449a01cf695ea85b26246981212e2483": "挖SRC必须知道的25个漏洞提交平台"
 }
