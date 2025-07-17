@@ -16051,5 +16051,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490445&idx=1&sn=d31f158d701b9c31fcc7c33cc05b2c61": "【高危漏洞预警】LaRecipe服务器端模板注入漏洞CVE-2025-53833",
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503624&idx=1&sn=efb918e1db57c9ad9b7deb875cb26da5": "【已复现】LaRecipe 服务器端模板注入漏洞(CVE-2025-53833)安全风险通告",
     "https://mp.weixin.qq.com/s?__biz=MzkxNjQyODY5MA==&mid=2247487268&idx=1&sn=32c18f49eefc14d6b05cb8af3b337109": "【辟谣】微信最新XSS漏洞？1click？真相原来是这样的！",
-    "https://mp.weixin.qq.com/s?__biz=MzA3MTUxNzQxMQ==&mid=2453886119&idx=1&sn=04a2b85331e9310f8cd6ae41fdede5da": "攻防演练：如何防护0day漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzA3MTUxNzQxMQ==&mid=2453886119&idx=1&sn=04a2b85331e9310f8cd6ae41fdede5da": "攻防演练：如何防护0day漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531794&idx=2&sn=12cf79e2129fed86722ef157f501769c": "mcp-remote 中存在严重 RCE 漏洞：CVE-2025-6514，威胁 LLM 客户端",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485198&idx=1&sn=66161ec0081b2a7e038030206809bbe9": "Windows 任意文件读取漏洞如何扩大战果？",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611454&idx=4&sn=9ba81f464170a0d7410456045e153a05": "Yscan 是一款集 Web 资产扫描、图形化 Nuclei POC 管理、漏洞验证与数据整理于一体的实战型安全工具。",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531794&idx=1&sn=8981d6a46b6b158edab4ffeb30db9bc4": "Microsoft Brokering File System Windows 11 22H2 权限提升漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096390&idx=2&sn=7b2eebc0e92101cb685e047f60813844": "VMware ESXi 和 Workstation 允许执行主机级代码漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NDg4MzYzNQ==&mid=2247486562&idx=1&sn=a00c80480f832a5f80b14fafdaa68a42": "代码审计-Java项目-组件RCE代码执行漏洞审计",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247506998&idx=1&sn=52801a9414af3059d542caf9da05aa53": "我如何在 TikTok 漏洞赏金计划中赚到 3000 美元"
 }
