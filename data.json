@@ -16083,5 +16083,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247490037&idx=1&sn=cb9766e7c28a24dbd93e399d36d87709": "细节已披露：WPS文档中心和文档中台存在远程代码执行 RCE",
     "https://mp.weixin.qq.com/s?__biz=Mzg3NzUyMTM0NA==&mid=2247488062&idx=1&sn=459cb7ef4a17d8e49db48010e6c6badf": "漏洞预警 | Linux sudo本地提权漏洞（CVE-2025-32462、CVE-2025-32463）",
     "https://mp.weixin.qq.com/s?__biz=MzkzMDQ0NzQwNA==&mid=2247487007&idx=1&sn=970c607c01da42be4e8fd7696b20cd75": "Apache服务器漏洞被黑客利用，Linuxsys挖矿病毒悄然蔓延",
-    "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664245703&idx=2&sn=5b268c55fba13203ab8183247a139c63": "CNNVD | 关于Oracle多个安全漏洞的通报"
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664245703&idx=2&sn=5b268c55fba13203ab8183247a139c63": "CNNVD | 关于Oracle多个安全漏洞的通报",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247583845&idx=1&sn=c90ced34d21a579bc3a5cc0f1a4541ff": "谷歌 Gemini 漏洞劫持电子邮件摘要进行网络钓鱼"
 }
