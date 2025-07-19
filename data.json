@@ -16105,5 +16105,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzA4NTAxMjA5Mg==&mid=2247484495&idx=1&sn=4f565a89e230b4cfbbfb7df78fa9706a": "CVE-2025-23267挖掘报告: GPU容器逃逸再现",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490465&idx=1&sn=798252ff23b627acb67f5d6d67f927ec": "【高危漏洞预警】NVIDIA Container Toolkit 容器逃逸漏洞CVE-2025-23266",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493785&idx=1&sn=ce2b54456146391c0e5277a33022645d": "漏洞预警 | 金和OA SQL注入漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493785&idx=2&sn=b6d7880ae3a645643d60d6269ee37cb3": "漏洞预警 | 汉王e脸通智慧园区管理平台任意文件上传漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493785&idx=2&sn=b6d7880ae3a645643d60d6269ee37cb3": "漏洞预警 | 汉王e脸通智慧园区管理平台任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247490046&idx=1&sn=3e3b0e6e437b0c67ab0fee641495004c": "WX RCE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247583863&idx=1&sn=247a5ef8a5281ed71aa75625259ef035": "黑客正在利用Wing FTP服务器的关键RCE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651134417&idx=1&sn=1c647891bc2a1a3fc76593fb82274590": "美国铁路关基系统曝漏洞，英国零售商650万数据遭窃取|一周特辑",
+    "https://mp.weixin.qq.com/s?__biz=MzU4MjYxNTYwNA==&mid=2247487834&idx=1&sn=ab354dd326ae72b7c8f31e4dc3c183e7": "新手练习向——基于文件上传漏洞获得网站shell权限",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NDg4MzYzNQ==&mid=2247486568&idx=1&sn=38979e7c71e92a748fe6c50d174e5ed3": "代码审计-Java项目审计-SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247493495&idx=1&sn=791bebc6faa651cc3c585c2f5f481d21": "渗透测试 ｜ 分享某次项目上的渗透测试漏洞复盘"
 }
