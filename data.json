@@ -16150,5 +16150,9 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651325214&idx=4&sn=423efc0dc6144bdfef13a5837b03e1ae": "HPE Instant On设备存在硬编码凭证漏洞，可获取管理员权限",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070764&idx=2&sn=d05638243e08a279721358efe3e21bb0": "【安全圈】英伟达漏洞致AI与机器人平台面临远程代码执行和数据泄露风险",
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458597663&idx=2&sn=7653176976d03c02843744f4f628e2ff": "7-Zip 曝双重漏洞：恶意文件可致系统崩溃，旧版本用户需紧急升级",
-    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496156&idx=2&sn=7858d5d8239a0dde15b3ef6f39a62ac1": "上周关注度较高的产品安全漏洞(20250714-20250720)"
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496156&idx=2&sn=7858d5d8239a0dde15b3ef6f39a62ac1": "上周关注度较高的产品安全漏洞(20250714-20250720)",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247490189&idx=1&sn=8931feffa6930193a9832388783f7688": "【漏洞情报】联想电脑管家存在远程命令执行漏洞 | 联想电脑管家RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzUzNjkxODE5MA==&mid=2247492134&idx=1&sn=5ffe2bbd8eca2687e479c0248177818e": "网络安全行业，在漏洞与补丁之间，其实我们都是幸存者",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NzUyNTI1Nw==&mid=2247497483&idx=1&sn=09869705c50afddbeffd230575a11f95": "一款面向安全运维场景的集成化利器，融合了资产管理、资产测绘、漏洞检测、配置核查、弱口令检测、批量运维、漏洞跟踪以及日志审计等功能",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247504063&idx=1&sn=3862aedb5fdb4ae21a2600a1dbbfb8e7": "Kernelhub，一个聚合了linux、windows、macOS的提权漏洞合集，带复现过程"
 }
