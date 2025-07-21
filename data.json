@@ -16144,5 +16144,11 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261436&idx=1&sn=2550e6e55f35e52f5dc81402a77ab724": "化腐朽为神奇：将 Self-XSS 升级为真正可利用的 XSS 漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247484922&idx=1&sn=ac04059f9edb5a0e589492e0006e3e2c": "【转载】契约锁pdfverifier RCE攻防绕过史",
     "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649788823&idx=1&sn=2b397642630b9a70a1623898b1607955": "多年补丁难及终端，固件漏洞持续困扰供应链",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNjc0ODA3NQ==&mid=2247484108&idx=1&sn=f26043e2d959c08efb209fd49798eecc": "他是如何靠“复制粘贴”拿到自己第一个$150漏洞赏金的"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjc0ODA3NQ==&mid=2247484108&idx=1&sn=f26043e2d959c08efb209fd49798eecc": "他是如何靠“复制粘贴”拿到自己第一个$150漏洞赏金的",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458597663&idx=1&sn=34418dc2e46f79efadfa931f71df0600": "CVE-2023-4069：Maglev图建立阶段的一个漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070749&idx=2&sn=04105f8ddc32460791073712282f5bbf": "【安全圈】黑客正在利用 Wing FTP 服务器的关键 RCE 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651325214&idx=4&sn=423efc0dc6144bdfef13a5837b03e1ae": "HPE Instant On设备存在硬编码凭证漏洞，可获取管理员权限",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070764&idx=2&sn=d05638243e08a279721358efe3e21bb0": "【安全圈】英伟达漏洞致AI与机器人平台面临远程代码执行和数据泄露风险",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458597663&idx=2&sn=7653176976d03c02843744f4f628e2ff": "7-Zip 曝双重漏洞：恶意文件可致系统崩溃，旧版本用户需紧急升级",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496156&idx=2&sn=7858d5d8239a0dde15b3ef6f39a62ac1": "上周关注度较高的产品安全漏洞(20250714-20250720)"
 }
